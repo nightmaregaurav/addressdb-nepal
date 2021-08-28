@@ -1312,7 +1312,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 (
 145,
 'Hanumannagar Kankalini',
-'हनुमाननगर कङ्‌कालिनी',
+'हनुमाननगर कङ्कालिनी',
 22,
 2,
 14
