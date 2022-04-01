@@ -19,8 +19,8 @@ INSERT INTO `province` (`id`, `english`, `nepali`, `hq_english`, `hq_nepali`) VA
 
 (
 2,
-'2_No',
-'२_नं',
+'Madhesh',
+'मधेश',
 'Janakpur',
 'जनकपूर'
 ),
