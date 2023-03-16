@@ -11,8 +11,8 @@ CREATE TABLE IF NOT EXISTS province (
 INSERT INTO `province` (`id`, `english`, `nepali`, `hq_english`, `hq_nepali`) VALUES
 (
 1,
-'1_No',
-'१_नं',
+'Koshi',
+'कोशी',
 'Biratnagar',
 'बिराटनगर'
 ),
