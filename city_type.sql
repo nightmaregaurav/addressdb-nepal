@@ -21,7 +21,7 @@ INSERT INTO `city_type` (`id`, `nepali`, `english`) VALUES
 
 (
 3,
-'उपमहानगरपालिका',
+'उप-महानगरपालिका',
 'Sub-Metropolitian City'
 ),
 
