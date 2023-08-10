@@ -46,7 +46,7 @@ INSERT INTO `district` (`id`, `english`, `nepali`, `hq_english`, `hq_nepali`, `p
 (
 5,
 'Khotang',
-'खोटाँग',
+'खोटाङ',
 'Diktel Rupakot Majhuwagadhi',
 'दिक्तेल रुपाकोट मझुवागढी',
 1),
@@ -54,7 +54,7 @@ INSERT INTO `district` (`id`, `english`, `nepali`, `hq_english`, `hq_nepali`, `p
 (
 6,
 'Morang',
-'मोरंग',
+'मोरङ',
 'Biratnagar',
 'बिराटनगर',
 1),
@@ -70,7 +70,7 @@ INSERT INTO `district` (`id`, `english`, `nepali`, `hq_english`, `hq_nepali`, `p
 (
 8,
 'Panchthar',
-'पांचथर',
+'पाँचथर',
 'Phidim',
 'फिदिम',
 1),
@@ -86,7 +86,7 @@ INSERT INTO `district` (`id`, `english`, `nepali`, `hq_english`, `hq_nepali`, `p
 (
 10,
 'Solukhumbu',
-'सोलुखुम्बू',
+'सोलुखुम्बु',
 'Solududhkunda',
 'सोलुदुधकुण्ड',
 1),
@@ -102,7 +102,7 @@ INSERT INTO `district` (`id`, `english`, `nepali`, `hq_english`, `hq_nepali`, `p
 (
 12,
 'Taplejung',
-'ताप्लेजुंग',
+'ताप्लेजुङ',
 'Phungling',
 'फुङलिङ',
 1),
@@ -238,7 +238,7 @@ INSERT INTO `district` (`id`, `english`, `nepali`, `hq_english`, `hq_nepali`, `p
 (
 29,
 'Kavrepalanchok',
-'काभ्रेपलान्चोक',
+'काभ्रेपलाञ्चोक',
 'Dhulikhel',
 'धुलिखेल',
 3),
@@ -294,7 +294,7 @@ INSERT INTO `district` (`id`, `english`, `nepali`, `hq_english`, `hq_nepali`, `p
 (
 36,
 'Baglung',
-'बागलुङ',
+'बाग्लुङ',
 'Baglung',
 'बागलुङ',
 4),
@@ -350,7 +350,7 @@ INSERT INTO `district` (`id`, `english`, `nepali`, `hq_english`, `hq_nepali`, `p
 (
 43,
 'Nawalpur',
-'नवलपुर',
+'नवलपरासी पूर्व',
 'Kawasoti',
 'कावासोती',
 4),
@@ -382,7 +382,7 @@ INSERT INTO `district` (`id`, `english`, `nepali`, `hq_english`, `hq_nepali`, `p
 (
 47,
 'Kapilvastu',
-'कपिलवस्तु',
+'कपिलबस्तु',
 'Kapilvastu',
 'कपिलवस्तु',
 5),
@@ -390,7 +390,7 @@ INSERT INTO `district` (`id`, `english`, `nepali`, `hq_english`, `hq_nepali`, `p
 (
 48,
 'Parasi',
-'परासी',
+'नवलपरासी पश्चिम',
 'Ramgram',
 'रामग्राम',
 5),
@@ -398,7 +398,7 @@ INSERT INTO `district` (`id`, `english`, `nepali`, `hq_english`, `hq_nepali`, `p
 (
 49,
 'Rupandehi',
-'रुपन्देही',
+'रूपन्देही',
 'Siddharthanagar',
 'सिद्धार्थनगर',
 5),
@@ -430,7 +430,7 @@ INSERT INTO `district` (`id`, `english`, `nepali`, `hq_english`, `hq_nepali`, `p
 (
 53,
 'Dang Deukhuri',
-'दाङ देउखुरी',
+'दाङ',
 'Ghorahi',
 'घोराही',
 5),
@@ -438,7 +438,7 @@ INSERT INTO `district` (`id`, `english`, `nepali`, `hq_english`, `hq_nepali`, `p
 (
 54,
 'Pyuthan',
-'प्युठान',
+'प्यूठान',
 'Pyuthan',
 'प्युठान',
 5),
@@ -454,7 +454,7 @@ INSERT INTO `district` (`id`, `english`, `nepali`, `hq_english`, `hq_nepali`, `p
 (
 56,
 'Eastern Rukum',
-'पूर्वी रूकुम',
+'रुकुम पूर्व',
 'Sisne',
 'सिस्ने',
 5),
@@ -478,7 +478,7 @@ INSERT INTO `district` (`id`, `english`, `nepali`, `hq_english`, `hq_nepali`, `p
 (
 59,
 'Western Rukum',
-'पश्चिमी रूकुम',
+'रुकुम पश्चिम',
 'Musikot',
 'मुसीकोट',
 6),
@@ -598,7 +598,7 @@ INSERT INTO `district` (`id`, `english`, `nepali`, `hq_english`, `hq_nepali`, `p
 (
 74,
 'Kanchanpur',
-'कंचनपुर',
+'कञ्चनपुर',
 'Bheemdatta',
 'भिमदत्त',
 7),
@@ -606,7 +606,7 @@ INSERT INTO `district` (`id`, `english`, `nepali`, `hq_english`, `hq_nepali`, `p
 (
 75,
 'Dadeldhura',
-'डडेलधुरा',
+'डडेल्धुरा',
 'Amargadhi',
 'अमरगढी',
 7),
