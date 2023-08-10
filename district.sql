@@ -349,7 +349,7 @@ INSERT INTO `district` (`id`, `english`, `nepali`, `hq_english`, `hq_nepali`, `p
 
 (
 43,
-'Nawalpur',
+'Nawalparasi East',
 'नवलपरासी पूर्व',
 'Kawasoti',
 'कावासोती',
@@ -389,7 +389,7 @@ INSERT INTO `district` (`id`, `english`, `nepali`, `hq_english`, `hq_nepali`, `p
 
 (
 48,
-'Parasi',
+'Nawalparasi West',
 'नवलपरासी पश्चिम',
 'Ramgram',
 'रामग्राम',
@@ -429,7 +429,7 @@ INSERT INTO `district` (`id`, `english`, `nepali`, `hq_english`, `hq_nepali`, `p
 
 (
 53,
-'Dang Deukhuri',
+'Dang',
 'दाङ',
 'Ghorahi',
 'घोराही',
@@ -453,7 +453,7 @@ INSERT INTO `district` (`id`, `english`, `nepali`, `hq_english`, `hq_nepali`, `p
 
 (
 56,
-'Eastern Rukum',
+'Rukum East',
 'रुकुम पूर्व',
 'Sisne',
 'सिस्ने',
@@ -477,7 +477,7 @@ INSERT INTO `district` (`id`, `english`, `nepali`, `hq_english`, `hq_nepali`, `p
 
 (
 59,
-'Western Rukum',
+'Rukum West',
 'रुकुम पश्चिम',
 'Musikot',
 'मुसीकोट',
