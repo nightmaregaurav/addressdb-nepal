@@ -2,7 +2,7 @@
 Database of address in nepal, Province, Districts and local government. With hq of province and districts. And ward numbers of local levels.
 
 ## Source:
- - Data about local government are extracted from: https://sthaniya.gov.np/gis/website/ and https://sthaniya.gov.np/gis/
+ - Data about local government are automatically extracted every month's first day exactly at 0:00 from: https://sthaniya.gov.np/gis/website/ and https://sthaniya.gov.np/gis/
  - Data about District and District capital are collected from various documents.(Might be outdated)
 
 ## Note:
