@@ -1,5 +1,5 @@
-# This workflow crawls Nepal police website for news once a day and writes the news content as json.
-name: Crawl nepal police website for news every day exactly at 11 AM (With assuming govt office open at 10, so they upload news till 11)
+# This workflow crawls website of Ministry of Federal Affairs & General Administration MOFA Nepal and extract local government data.
+name: Crawl MOFA website 0:00 each month exactly at first day.
 
 on:
   schedule:
