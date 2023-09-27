@@ -4,8 +4,8 @@ name: Crawl MOFA website 0:00 each month exactly at first day.
 on:
   schedule:
   - cron: '0 0 1 * *'
-  push:
-    branches: [ "master" ]
+#  push:
+#    branches: [ "master" ]
 
 permissions:
   contents: write
