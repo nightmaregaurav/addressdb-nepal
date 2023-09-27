@@ -16,7 +16,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 1,
 'Phungling',
 'फुङलिङ',
-12,
+1,
 2,
 11
 ),
@@ -25,7 +25,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 2,
 'Aathrai Tribeni',
 'आठराई त्रिवेणी',
-12,
+1,
 1,
 5
 ),
@@ -34,7 +34,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 3,
 'Sidingba',
 'सिदिङ्वा',
-12,
+1,
 1,
 7
 ),
@@ -43,7 +43,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 4,
 'Phaktanglung',
 'फक्ताङलुङ',
-12,
+1,
 1,
 7
 ),
@@ -52,7 +52,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 5,
 'Mikwakhola',
 'मिक्वाखोला',
-12,
+1,
 1,
 5
 ),
@@ -61,7 +61,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 6,
 'Meringden',
 'मेरिङदेन',
-12,
+1,
 1,
 6
 ),
@@ -70,7 +70,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 7,
 'Maiwakhola',
 'मैवाखोला',
-12,
+1,
 1,
 6
 ),
@@ -79,7 +79,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 8,
 'Pathivara Yangwarak',
 'पाथीभरा याङवरक',
-12,
+1,
 1,
 6
 ),
@@ -88,7 +88,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 9,
 'Sirijangha',
 'सिरीजङ्घा',
-12,
+1,
 1,
 8
 ),
@@ -97,7 +97,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 10,
 'Phidim',
 'फिदिम',
-8,
+2,
 2,
 14
 ),
@@ -106,7 +106,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 11,
 'Phalelung',
 'फालेलुङ',
-8,
+2,
 1,
 8
 ),
@@ -115,7 +115,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 12,
 'Phalgunanda',
 'फाल्गुनन्द',
-8,
+2,
 1,
 7
 ),
@@ -124,7 +124,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 13,
 'Hilihang',
 'हिलिहाङ',
-8,
+2,
 1,
 7
 ),
@@ -133,7 +133,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 14,
 'Kummayak',
 'कुम्मायक',
-8,
+2,
 1,
 5
 ),
@@ -142,7 +142,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 15,
 'Miklajung',
 'मिक्लाजुङ',
-8,
+2,
 1,
 8
 ),
@@ -151,7 +151,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 16,
 'Tumwewa',
 'तुम्बेवा',
-8,
+2,
 1,
 5
 ),
@@ -160,7 +160,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 17,
 'Yangwarak',
 'याङवरक',
-8,
+2,
 1,
 6
 ),
@@ -394,7 +394,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 43,
 'Biratnagar',
 'विराटनगर',
-6,
+5,
 4,
 19
 ),
@@ -403,7 +403,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 44,
 'Belbari',
 'बेलवारी',
-6,
+5,
 2,
 11
 ),
@@ -412,7 +412,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 45,
 'Letang',
 'लेटाङ',
-6,
+5,
 2,
 9
 ),
@@ -421,7 +421,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 46,
 'Pathari Shanishchare',
 'पथरी शनिश्चरे',
-6,
+5,
 2,
 10
 ),
@@ -430,7 +430,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 47,
 'Rangeli',
 'रंगेली',
-6,
+5,
 2,
 9
 ),
@@ -439,7 +439,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 48,
 'Ratuwamai',
 'रतुवामाई',
-6,
+5,
 2,
 10
 ),
@@ -448,7 +448,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 49,
 'Sunawarshi',
 'सुनवर्षि',
-6,
+5,
 2,
 9
 ),
@@ -457,7 +457,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 50,
 'Urlabari',
 'उर्लावारी',
-6,
+5,
 2,
 9
 ),
@@ -466,7 +466,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 51,
 'Sundarharaicha',
 'सुन्दरहरैचा',
-6,
+5,
 2,
 12
 ),
@@ -475,7 +475,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 52,
 'Budhiganga',
 'बुढीगंगा',
-6,
+5,
 1,
 7
 ),
@@ -484,7 +484,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 53,
 'Dhanapalthan',
 'धनपालथान',
-6,
+5,
 1,
 7
 ),
@@ -493,7 +493,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 54,
 'Gramthan',
 'ग्रामथान',
-6,
+5,
 1,
 7
 ),
@@ -502,7 +502,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 55,
 'Jahada',
 'जहदा',
-6,
+5,
 1,
 7
 ),
@@ -511,7 +511,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 56,
 'Kanepokhari',
 'कानेपोखरी',
-6,
+5,
 1,
 7
 ),
@@ -520,7 +520,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 57,
 'Katahari',
 'कटहरी',
-6,
+5,
 1,
 7
 ),
@@ -529,7 +529,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 58,
 'Kerabari',
 'केरावारी',
-6,
+5,
 1,
 10
 ),
@@ -538,7 +538,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 59,
 'Miklajung',
 'मिक्लाजुङ',
-6,
+5,
 1,
 9
 ),
@@ -547,7 +547,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 60,
 'Itahari',
 'ईटहरी',
-11,
+6,
 3,
 20
 ),
@@ -556,7 +556,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 61,
 'Dharan',
 'धरान',
-11,
+6,
 3,
 20
 ),
@@ -565,7 +565,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 62,
 'Inaruwa',
 'ईनरुवा',
-11,
+6,
 2,
 10
 ),
@@ -574,7 +574,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 63,
 'Duhabi',
 'दुहवी',
-11,
+6,
 2,
 12
 ),
@@ -583,7 +583,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 64,
 'Ramdhuni',
 'रामधुनी',
-11,
+6,
 2,
 9
 ),
@@ -592,7 +592,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 65,
 'Barahakshetra',
 'बराहक्षेत्र',
-11,
+6,
 2,
 11
 ),
@@ -601,7 +601,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 66,
 'Dewanganj',
 'देवानगञ्ज',
-11,
+6,
 1,
 7
 ),
@@ -610,7 +610,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 67,
 'Koshi',
 'कोशी',
-11,
+6,
 1,
 8
 ),
@@ -619,7 +619,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 68,
 'Gadhi',
 'गढी',
-11,
+6,
 1,
 6
 ),
@@ -628,7 +628,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 69,
 'Barju',
 'बर्जु',
-11,
+6,
 1,
 6
 ),
@@ -637,7 +637,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 70,
 'Bhokraha Narsingh',
 'भोक्राहा नरसिंह',
-11,
+6,
 1,
 8
 ),
@@ -646,7 +646,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 71,
 'Harinagara',
 'हरिनगर',
-11,
+6,
 1,
 7
 ),
@@ -655,7 +655,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 72,
 'Pakhribas',
 'पाख्रिबास',
-2,
+7,
 2,
 10
 ),
@@ -664,7 +664,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 73,
 'Dhankuta',
 'धनकुटा',
-2,
+7,
 2,
 10
 ),
@@ -673,7 +673,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 74,
 'Mahalaxmi',
 'महालक्ष्मी',
-2,
+7,
 2,
 9
 ),
@@ -682,7 +682,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 75,
 'Sangurigadhi',
 'साँगुरीगढी',
-2,
+7,
 1,
 10
 ),
@@ -691,7 +691,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 76,
 'Shahidbhumi',
 'सहिदभूमि',
-2,
+7,
 1,
 7
 ),
@@ -700,7 +700,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 77,
 'Chhathar Jorpati',
 'छथर जोरपाटी',
-2,
+7,
 1,
 6
 ),
@@ -709,7 +709,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 78,
 'Choubise',
 'चौविसे',
-2,
+7,
 1,
 8
 ),
@@ -718,7 +718,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 79,
 'Myanglung',
 'म्याङलुङ',
-13,
+8,
 2,
 10
 ),
@@ -727,7 +727,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 80,
 'Laligurans',
 'लालीगुराँस',
-13,
+8,
 2,
 9
 ),
@@ -736,7 +736,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 81,
 'Aathrai',
 'आठराई',
-13,
+8,
 1,
 7
 ),
@@ -745,7 +745,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 82,
 'Chhathar',
 'छथर',
-13,
+8,
 1,
 6
 ),
@@ -754,7 +754,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 83,
 'Phedap',
 'फेदाप',
-13,
+8,
 1,
 5
 ),
@@ -763,7 +763,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 84,
 'Menchhayayem',
 'मेन्छयायेम',
-13,
+8,
 1,
 6
 ),
@@ -862,7 +862,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 95,
 'Bhojpur',
 'भोजपुर',
-1,
+10,
 2,
 12
 ),
@@ -871,7 +871,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 96,
 'Shadananda',
 'षडानन्द',
-1,
+10,
 2,
 14
 ),
@@ -880,7 +880,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 97,
 'Tyamkemaiyum',
 'टेम्केमैयुङ',
-1,
+10,
 1,
 9
 ),
@@ -889,7 +889,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 98,
 'Ramprasad Rai',
 'रामप्रसाद राई',
-1,
+10,
 1,
 8
 ),
@@ -898,7 +898,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 99,
 'Arun',
 'अरुण',
-1,
+10,
 1,
 7
 ),
@@ -907,7 +907,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 100,
 'Pauwadungma',
 'पौवादुङमा',
-1,
+10,
 1,
 6
 ),
@@ -917,7 +917,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 101,
 'Salpasilichho',
 'साल्पासिलिछो',
-1,
+10,
 1,
 6
 ),
@@ -926,7 +926,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 102,
 'Aamchowk',
 'आमचोक',
-1,
+10,
 1,
 10
 ),
@@ -935,7 +935,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 103,
 'Hatuwagadhi',
 'हतुवागढी',
-1,
+10,
 1,
 9
 ),
@@ -944,7 +944,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 104,
 'Solududhkunda',
 'सोलुदुधकुण्ड',
-10,
+11,
 2,
 11
 ),
@@ -953,7 +953,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 105,
 'Mapya Dudhkoshi',
 'माप्य दुधकोशी',
-10,
+11,
 1,
 7
 ),
@@ -962,7 +962,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 106,
 'Khumbu Pasanglhamu',
 'खुम्वु पासाङल्हमु',
-10,
+11,
 1,
 5
 ),
@@ -971,7 +971,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 107,
 'Thulung Dudhkoshi',
 'थुलुङ दुधकोशी',
-10,
+11,
 1,
 9
 ),
@@ -980,7 +980,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 108,
 'Nechasalyan',
 'नेचासल्यान',
-10,
+11,
 1,
 5
 ),
@@ -989,7 +989,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 109,
 'Mahakulung',
 'माहाकुलुङ',
-10,
+11,
 1,
 5
 ),
@@ -998,7 +998,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 110,
 'Likhu Pike',
 'लिखु पिके',
-10,
+11,
 1,
 5
 ),
@@ -1007,7 +1007,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 111,
 'Sotang',
 'सोताङ',
-10,
+11,
 1,
 5
 ),
@@ -1016,7 +1016,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 112,
 'Siddhicharan',
 'सिद्दिचरण',
-7,
+12,
 2,
 12
 ),
@@ -1025,7 +1025,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 113,
 'Khijidemba',
 'खिजिदेम्बा',
-7,
+12,
 1,
 9
 ),
@@ -1034,7 +1034,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 114,
 'Champadevi',
 'चम्पादेवी',
-7,
+12,
 1,
 10
 ),
@@ -1043,7 +1043,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 115,
 'Chishankhugadhi',
 'चिशंखुगढी',
-7,
+12,
 1,
 8
 ),
@@ -1052,7 +1052,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 116,
 'Manebhanjyang',
 'मानेभञ्याङ',
-7,
+12,
 1,
 9
 ),
@@ -1061,7 +1061,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 117,
 'Molung',
 'मोलुङ',
-7,
+12,
 1,
 8
 ),
@@ -1070,7 +1070,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 118,
 'Likhu',
 'लिखु',
-7,
+12,
 1,
 9
 ),
@@ -1079,7 +1079,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 119,
 'Sunkoshi',
 'सुनकोशी',
-7,
+12,
 1,
 10
 ),
@@ -1088,7 +1088,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 120,
 'Halesi Tuwachung',
 'हलेसी तुवाचुङ',
-5,
+13,
 2,
 11
 ),
@@ -1097,7 +1097,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 121,
 'Diktel Rupakot Majhuwagadhi',
 'दिक्तेल रुपाकोट मझुवागढी',
-5,
+13,
 2,
 15
 ),
@@ -1106,7 +1106,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 122,
 'Aiselukharka',
 'ऐसेलुखर्क',
-5,
+13,
 1,
 7
 ),
@@ -1115,7 +1115,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 123,
 'Rawa Besi',
 'रावा बेसी',
-5,
+13,
 1,
 6
 ),
@@ -1124,7 +1124,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 124,
 'Jantedhunga',
 'जन्तेढुंगा',
-5,
+13,
 1,
 6
 ),
@@ -1133,7 +1133,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 125,
 'Khotehang',
 'खोटेहाङ',
-5,
+13,
 1,
 9
 ),
@@ -1142,7 +1142,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 126,
 'Kepilasgadhi',
 'केपिलासगढी',
-5,
+13,
 1,
 7
 ),
@@ -1151,7 +1151,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 127,
 'Diprung Chuichumma',
 'दिप्रुङ चुइचुम्मा',
-5,
+13,
 1,
 7
 ),
@@ -1160,7 +1160,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 128,
 'Sakela',
 'साकेला',
-5,
+13,
 1,
 5
 ),
@@ -1169,7 +1169,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 129,
 'Barahapokhari',
 'वराहपोखरी',
-5,
+13,
 1,
 6
 ),
@@ -1250,7 +1250,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 138,
 'Rajbiraj',
 'राजविराज',
-22,
+15,
 2,
 16
 ),
@@ -1259,7 +1259,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 139,
 'Kanchanrup',
 'कञ्चनरुप',
-22,
+15,
 2,
 12
 ),
@@ -1268,7 +1268,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 140,
 'Dakneshwori',
 'डाक्नेश्वरी',
-22,
+15,
 2,
 10
 ),
@@ -1277,7 +1277,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 141,
 'Bodebarsain',
 'बोदेबरसाईन',
-22,
+15,
 2,
 10
 ),
@@ -1286,7 +1286,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 142,
 'Khadak',
 'खडक',
-22,
+15,
 2,
 11
 ),
@@ -1295,7 +1295,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 143,
 'Shambhunath',
 'शम्भुनाथ',
-22,
+15,
 2,
 12
 ),
@@ -1304,7 +1304,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 144,
 'Surunga',
 'सुरुङ्‍गा',
-22,
+15,
 2,
 11
 ),
@@ -1313,7 +1313,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 145,
 'Hanumannagar Kankalini',
 'हनुमाननगर कङ्कालिनी',
-22,
+15,
 2,
 14
 ),
@@ -1322,7 +1322,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 146,
 'Saptakoshi',
 'सप्तकोशी',
-22,
+15,
 2,
 11
 ),
@@ -1331,7 +1331,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 147,
 'Agnisair Krishnasawaran',
 'अग्निसाइर कृष्णासरवन',
-22,
+15,
 1,
 6
 ),
@@ -1340,7 +1340,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 148,
 'Chhinnamasta',
 'छिन्नमस्ता',
-22,
+15,
 1,
 7
 ),
@@ -1349,7 +1349,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 149,
 'Mahadeva',
 'महादेवा',
-22,
+15,
 1,
 6
 ),
@@ -1358,7 +1358,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 150,
 'Tirahut',
 'तिरहुत',
-22,
+15,
 1,
 5
 ),
@@ -1367,7 +1367,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 151,
 'Tilathi Koiladi',
 'तिलाठी कोईलाडी',
-22,
+15,
 1,
 8
 ),
@@ -1376,7 +1376,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 152,
 'Rupani',
 'रुपनी',
-22,
+15,
 1,
 6
 ),
@@ -1385,7 +1385,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 153,
 'Rajgadh',
 'राजगढ',
-22,
+15,
 1,
 6
 ),
@@ -1394,7 +1394,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 154,
 'Bishnupur',
 'बिष्णुपुर',
-22,
+15,
 1,
 7
 ),
@@ -1403,7 +1403,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 155,
 'Balan Bihul',
 'बलान बिहुल',
-22,
+15,
 1,
 6
 ),
@@ -1412,7 +1412,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 156,
 'Lahan',
 'लहान',
-20,
+16,
 2,
 24
 ),
@@ -1421,7 +1421,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 157,
 'Dhangadhimai',
 'धनगढीमाई',
-20,
+16,
 2,
 14
 ),
@@ -1430,7 +1430,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 158,
 'Siraha',
 'सिराहा',
-20,
+16,
 2,
 22
 ),
@@ -1439,7 +1439,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 159,
 'Golbazar',
 'गोलबजार',
-20,
+16,
 2,
 13
 ),
@@ -1448,7 +1448,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 160,
 'Mirchaiya',
 'मिर्चैयाँ',
-20,
+16,
 2,
 12
 ),
@@ -1457,7 +1457,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 161,
 'Kalyanpur',
 'कल्याणपुर',
-20,
+16,
 2,
 12
 ),
@@ -1466,7 +1466,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 162,
 'Karjanha',
 'कर्जन्हा',
-20,
+16,
 2,
 11
 ),
@@ -1475,7 +1475,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 163,
 'Sukhipur',
 'सुखीपुर',
-20,
+16,
 2,
 10
 ),
@@ -1484,7 +1484,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 164,
 'Bhagwanpur',
 'भगवानपुर',
-20,
+16,
 1,
 5
 ),
@@ -1493,7 +1493,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 165,
 'Aurahi',
 'औरही',
-20,
+16,
 1,
 5
 ),
@@ -1502,7 +1502,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 166,
 'Bishnupur',
 'विष्णुपुर',
-20,
+16,
 1,
 5
 ),
@@ -1511,7 +1511,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 167,
 'Bariyapatti',
 'बरियारपट्टी',
-20,
+16,
 1,
 5
 ),
@@ -1520,7 +1520,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 168,
 'Laxmipur Patari',
 'लक्ष्मीपुर पतारी',
-20,
+16,
 1,
 6
 ),
@@ -1529,7 +1529,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 169,
 'Naraha',
 'नरहा',
-20,
+16,
 1,
 5
 ),
@@ -1538,7 +1538,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 170,
 'Sakhuwanankarkatti',
 'सखुवानान्कारकट्टी',
-20,
+16,
 1,
 5
 ),
@@ -1547,7 +1547,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 171,
 'Anarma',
 'अर्नमा',
-20,
+16,
 1,
 5
 ),
@@ -1556,7 +1556,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 172,
 'Nawarajpur',
 'नवराजपुर',
-20,
+16,
 1,
 5
 ),
@@ -1566,7 +1566,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 173,
 'Janakpurdham',
 'जनकपुरधाम',
-19,
+17,
 3,
 25
 ),
@@ -1575,7 +1575,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 174,
 'Kshireshwornath',
 'क्षिरेश्वरनाथ',
-19,
+17,
 2,
 10
 ),
@@ -1584,7 +1584,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 175,
 'Ganeshman Charnath',
 'गणेशमान चारनाथ',
-19,
+17,
 2,
 11
 ),
@@ -1593,7 +1593,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 176,
 'Dhanushadham',
 'धनुषाधाम',
-19,
+17,
 2,
 9
 ),
@@ -1602,7 +1602,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 177,
 'Nagrain',
 'नगराइन',
-19,
+17,
 2,
 9
 ),
@@ -1611,7 +1611,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 178,
 'Bideha',
 'विदेह',
-19,
+17,
 2,
 9
 ),
@@ -1620,7 +1620,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 179,
 'Mithila',
 'मिथिला',
-19,
+17,
 2,
 11
 ),
@@ -1629,7 +1629,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 180,
 'Shahidnagar',
 'शहीदनगर',
-19,
+17,
 2,
 9
 ),
@@ -1638,7 +1638,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 181,
 'Sabaila',
 'सबैला',
-19,
+17,
 2,
 13
 ),
@@ -1647,7 +1647,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 182,
 'Kamala',
 'कमला',
-19,
+17,
 2,
 9
 ),
@@ -1656,7 +1656,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 183,
 'Mithila Bihari',
 'मिथिला बिहारी',
-19,
+17,
 2,
 10
 ),
@@ -1665,7 +1665,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 184,
 'Hansapur',
 'हंसपुर',
-19,
+17,
 2,
 9
 ),
@@ -1674,7 +1674,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 185,
 'Janaknandini',
 'जनकनन्दिनी',
-19,
+17,
 1,
 6
 ),
@@ -1683,7 +1683,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 186,
 'Bateshwor',
 'बटेश्वर',
-19,
+17,
 1,
 5
 ),
@@ -1692,7 +1692,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 187,
 'Mukhiyapatti Musaharmiya',
 'मुखियापट्टी मुसहरमिया',
-19,
+17,
 1,
 6
 ),
@@ -1701,7 +1701,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 188,
 'Laxminiya',
 'लक्ष्मीनिया',
-19,
+17,
 1,
 7
 ),
@@ -1710,7 +1710,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 189,
 'Aurahi',
 'औरही',
-19,
+17,
 1,
 6
 ),
@@ -1719,7 +1719,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 190,
 'Dhanauji',
 'धनौजी',
-19,
+17,
 1,
 5
 ),
@@ -1728,7 +1728,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 191,
 'Jaleshwor',
 'जलेश्वर',
-21,
+18,
 2,
 12
 ),
@@ -1737,7 +1737,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 192,
 'Bardibas',
 'बर्दिबास',
-21,
+18,
 2,
 14
 ),
@@ -1746,7 +1746,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 193,
 'Gaushala',
 'गौशाला',
-21,
+18,
 2,
 12
 ),
@@ -1755,7 +1755,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 194,
 'Loharpatti',
 'लोहरपट्टी',
-21,
+18,
 2,
 9
 ),
@@ -1764,7 +1764,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 195,
 'Ramgopalpur',
 'रामगोपालपुर',
-21,
+18,
 2,
 9
 ),
@@ -1773,7 +1773,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 196,
 'Manra Shiswa',
 'मनरा शिसवा',
-21,
+18,
 2,
 10
 ),
@@ -1782,7 +1782,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 197,
 'Matihani',
 'मटिहानी',
-21,
+18,
 2,
 9
 ),
@@ -1791,7 +1791,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 198,
 'Bhagaha',
 'भँगाहा',
-21,
+18,
 2,
 9
 ),
@@ -1800,7 +1800,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 199,
 'Balwa',
 'बलवा',
-21,
+18,
 2,
 11
 ),
@@ -1809,7 +1809,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 200,
 'Aurahi',
 'औरही',
-21,
+18,
 2,
 9
 ),
@@ -1818,7 +1818,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 201,
 'Ekdara',
 'एकडारा',
-21,
+18,
 1,
 6
 ),
@@ -1827,7 +1827,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 202,
 'Sonma',
 'सोनमा',
-21,
+18,
 1,
 8
 ),
@@ -1836,7 +1836,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 203,
 'Samsi',
 'साम्सी',
-21,
+18,
 1,
 7
 ),
@@ -1845,7 +1845,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 204,
 'Mahottari',
 'महोत्तरी',
-21,
+18,
 1,
 6
 ),
@@ -1854,7 +1854,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 205,
 'Pipra',
 'पिपरा',
-21,
+18,
 1,
 7
 ),
@@ -1863,7 +1863,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 206,
 'Ishworpur',
 'ईश्वरपुर',
-18,
+19,
 2,
 15
 ),
@@ -1872,7 +1872,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 207,
 'Malangwa',
 'मलंगवा',
-18,
+19,
 2,
 12
 ),
@@ -1881,7 +1881,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 208,
 'Lalbandi',
 'लालबन्दी',
-18,
+19,
 2,
 17
 ),
@@ -1890,7 +1890,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 209,
 'Haripur',
 'हरिपुर',
-18,
+19,
 2,
 9
 ),
@@ -1899,7 +1899,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 210,
 'Haripurwa',
 'हरिपुर्वा',
-18,
+19,
 2,
 9
 ),
@@ -1908,7 +1908,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 211,
 'Harion',
 'हरिवन',
-18,
+19,
 2,
 11
 ),
@@ -1917,7 +1917,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 212,
 'Barhathwa',
 'बरहथवा',
-18,
+19,
 2,
 18
 ),
@@ -1926,7 +1926,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 213,
 'Balra',
 'बलरा',
-18,
+19,
 2,
 11
 ),
@@ -1935,7 +1935,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 214,
 'Godaita',
 'गोडैटा',
-18,
+19,
 2,
 12
 ),
@@ -1944,7 +1944,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 215,
 'Bagmati',
 'बागमती',
-18,
+19,
 2,
 12
 ),
@@ -1953,7 +1953,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 216,
 'Kawilasi',
 'कविलासी',
-18,
+19,
 2,
 10
 ),
@@ -1962,7 +1962,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 217,
 'Chakraghatta',
 'चक्रघट्टा',
-18,
+19,
 1,
 9
 ),
@@ -1971,7 +1971,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 218,
 'Chandranagar',
 'चन्द्रनगर',
-18,
+19,
 1,
 7
 ),
@@ -1980,7 +1980,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 219,
 'Dhankaul',
 'धनकौल',
-18,
+19,
 1,
 7
 ),
@@ -1989,7 +1989,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 220,
 'Brahmapuri',
 'ब्रह्मपुरी',
-18,
+19,
 1,
 7
 ),
@@ -1998,7 +1998,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 221,
 'Ramnagar',
 'रामनगर',
-18,
+19,
 1,
 7
 ),
@@ -2007,7 +2007,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 222,
 'Bishnu',
 'विष्णु',
-18,
+19,
 1,
 8
 ),
@@ -2016,7 +2016,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 223,
 'Kaudena',
 'कौडेना',
-18,
+19,
 1,
 7
 ),
@@ -2025,7 +2025,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 224,
 'Parsa',
 'पर्सा',
-18,
+19,
 1,
 6
 ),
@@ -2034,7 +2034,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 225,
 'Basbariya',
 'बसबरीया',
-18,
+19,
 1,
 6
 ),
@@ -2043,7 +2043,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 226,
 'Kamalamai',
 'कमलामाई',
-23,
+20,
 2,
 14
 ),
@@ -2052,7 +2052,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 227,
 'Dudhauli',
 'दुधौली',
-23,
+20,
 2,
 14
 ),
@@ -2061,7 +2061,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 228,
 'Golanjor',
 'गोलन्जर',
-23,
+20,
 1,
 7
 ),
@@ -2070,7 +2070,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 229,
 'Ghyanglekh',
 'घ्याङलेख',
-23,
+20,
 1,
 5
 ),
@@ -2079,7 +2079,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 230,
 'Tinpatan',
 'तीनपाटन',
-23,
+20,
 1,
 11
 ),
@@ -2088,7 +2088,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 231,
 'Phikkal',
 'फिक्कल',
-23,
+20,
 1,
 6
 ),
@@ -2097,7 +2097,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 232,
 'Marin',
 'मरिण',
-23,
+20,
 1,
 7
 ),
@@ -2106,7 +2106,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 233,
 'Sunkoshi',
 'सुनकोशी',
-23,
+20,
 1,
 7
 ),
@@ -2115,7 +2115,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 234,
 'Hariharpurgadhi',
 'हरिहरपुरगढी',
-23,
+20,
 1,
 8
 ),
@@ -2124,7 +2124,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 235,
 'Manthali',
 'मन्थली',
-24,
+21,
 2,
 14
 ),
@@ -2133,7 +2133,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 236,
 'Ramechhap',
 'रामेछाप',
-24,
+21,
 2,
 9
 ),
@@ -2142,7 +2142,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 237,
 'Umakunda',
 'उमाकुण्ड',
-24,
+21,
 1,
 7
 ),
@@ -2151,7 +2151,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 238,
 'Khandadevi',
 'खाँडादेवी',
-24,
+21,
 1,
 9
 ),
@@ -2160,7 +2160,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 239,
 'Gokulganga',
 'गोकुलगङ्गा',
-24,
+21,
 1,
 6
 ),
@@ -2169,7 +2169,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 240,
 'Doramba',
 'दोरम्बा',
-24,
+21,
 1,
 7
 ),
@@ -2178,7 +2178,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 241,
 'Likhu Tamakoshi',
 'लिखु तामाकोशी',
-24,
+21,
 1,
 7
 ),
@@ -2187,7 +2187,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 242,
 'Sunapati',
 'सुनापती',
-24,
+21,
 1,
 5
 ),
@@ -2196,7 +2196,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 243,
 'Jiri',
 'जिरी',
-25,
+22,
 2,
 9
 ),
@@ -2205,7 +2205,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 244,
 'Bhimeshwor',
 'भिमेश्वर',
-25,
+22,
 2,
 9
 ),
@@ -2214,7 +2214,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 245,
 'Kalinchowk',
 'कालिन्चोक',
-25,
+22,
 1,
 9
 ),
@@ -2223,7 +2223,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 246,
 'Gaurishankar',
 'गौरीशङ्कर',
-25,
+22,
 1,
 9
 ),
@@ -2232,7 +2232,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 247,
 'Tamakoshi',
 'तामाकोशी',
-25,
+22,
 1,
 7
 ),
@@ -2241,7 +2241,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 248,
 'Melung',
 'मेलुङ्ग',
-25,
+22,
 1,
 7
 ),
@@ -2250,7 +2250,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 249,
 'Bigu',
 'विगु',
-25,
+22,
 1,
 8
 ),
@@ -2259,7 +2259,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 250,
 'Baiteshwor',
 'वैतेश्वर',
-25,
+22,
 1,
 8
 ),
@@ -2268,7 +2268,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 251,
 'Shailung',
 'शैलुङ्ग',
-25,
+22,
 1,
 8
 ),
@@ -2277,7 +2277,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 252,
 'Chautara Sangachowkgadhi',
 'चौतारा साँगाचोकगढी',
-33,
+23,
 2,
 14
 ),
@@ -2286,7 +2286,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 253,
 'Bahrabise',
 'बाह्रविसे',
-33,
+23,
 2,
 9
 ),
@@ -2295,7 +2295,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 254,
 'Melamchi',
 'मेलम्ची',
-33,
+23,
 2,
 13
 ),
@@ -2304,7 +2304,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 255,
 'Indrawati',
 'ईन्द्रावती',
-33,
+23,
 1,
 12
 ),
@@ -2313,7 +2313,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 256,
 'Jugal',
 'जुगल',
-33,
+23,
 1,
 7
 ),
@@ -2322,7 +2322,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 257,
 'Panchpokhari Thangpal',
 'पाँचपोखरी थाङपाल',
-33,
+23,
 1,
 8
 ),
@@ -2331,7 +2331,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 258,
 'Balephi',
 'बलेफी',
-33,
+23,
 1,
 8
 ),
@@ -2340,7 +2340,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 259,
 'Bhotekoshi',
 'भोटेकोशी',
-33,
+23,
 1,
 5
 ),
@@ -2349,7 +2349,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 260,
 'Lisankhu Pakhar',
 'लिसङ्खु पाखर',
-33,
+23,
 1,
 7
 ),
@@ -2358,7 +2358,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 261,
 'Sunkoshi',
 'सुनकोशी',
-33,
+23,
 1,
 7
 ),
@@ -2367,7 +2367,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 262,
 'Helambu',
 'हेलम्बु',
-33,
+23,
 1,
 7
 ),
@@ -2376,7 +2376,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 263,
 'Tripurasundari',
 'त्रिपुरासुन्दरी',
-33,
+23,
 1,
 6
 ),
@@ -2385,7 +2385,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 264,
 'Dhulikhel',
 'धुलिखेल',
-29,
+24,
 2,
 12
 ),
@@ -2394,7 +2394,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 265,
 'Banepa',
 'बनेपा',
-29,
+24,
 2,
 14
 ),
@@ -2403,7 +2403,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 266,
 'Panauti',
 'पनौती',
-29,
+24,
 2,
 12
 ),
@@ -2412,7 +2412,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 267,
 'Panchkhal',
 'पाँचखाल',
-29,
+24,
 2,
 13
 ),
@@ -2421,7 +2421,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 268,
 'Namobuddha',
 'नमोबुद्ध',
-29,
+24,
 2,
 11
 ),
@@ -2430,7 +2430,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 269,
 'Mandandeupur',
 'मण्डनदेउपुर',
-29,
+24,
 2,
 12
 ),
@@ -2439,7 +2439,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 270,
 'Khanikhola',
 'खानीखोला',
-29,
+24,
 1,
 7
 ),
@@ -2448,7 +2448,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 271,
 'Chaurideurali',
 'चौंरीदेउराली',
-29,
+24,
 1,
 9
 ),
@@ -2457,7 +2457,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 272,
 'Temal',
 'तेमाल',
-29,
+24,
 1,
 9
 ),
@@ -2466,7 +2466,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 273,
 'Bethanchowk',
 'बेथानचोक',
-29,
+24,
 1,
 6
 ),
@@ -2475,7 +2475,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 274,
 'Bhumlu',
 'भुम्लु',
-29,
+24,
 1,
 10
 ),
@@ -2484,7 +2484,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 275,
 'Mahabharat',
 'महाभारत',
-29,
+24,
 1,
 8
 ),
@@ -2493,7 +2493,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 276,
 'Roshi',
 'रोशी',
-29,
+24,
 1,
 12
 ),
@@ -2502,7 +2502,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 277,
 'Lalitpur',
 'ललितपुर',
-30,
+25,
 4,
 29
 ),
@@ -2511,7 +2511,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 278,
 'Godawari',
 'गोदावरी',
-30,
+25,
 2,
 14
 ),
@@ -2520,7 +2520,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 279,
 'Mahalaxmi',
 'महालक्ष्मी',
-30,
+25,
 2,
 10
 ),
@@ -2529,7 +2529,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 280,
 'Konjyosom',
 'कोन्ज्योसोम',
-30,
+25,
 1,
 5
 ),
@@ -2538,7 +2538,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 281,
 'Bagmati',
 'बागमती',
-30,
+25,
 1,
 7
 ),
@@ -2547,7 +2547,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 282,
 'Mahankal',
 'महाङ्काल',
-30,
+25,
 1,
 6
 ),
@@ -2592,7 +2592,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 287,
 'Kathmandu',
 'काठमाण्डौं',
-28,
+27,
 4,
 32
 ),
@@ -2601,7 +2601,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 288,
 'Kageshwori Manohara',
 'कागेश्वरी मनोहरा',
-28,
+27,
 2,
 9
 ),
@@ -2610,7 +2610,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 289,
 'Kirtipur',
 'कीर्तिपुर',
-28,
+27,
 2,
 10
 ),
@@ -2619,7 +2619,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 290,
 'Gokarneshwor',
 'गोकर्णेश्वर',
-28,
+27,
 2,
 9
 ),
@@ -2628,7 +2628,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 291,
 'Chandragiri',
 'चन्द्रागिरी',
-28,
+27,
 2,
 15
 ),
@@ -2637,7 +2637,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 292,
 'Tokha',
 'टोखा',
-28,
+27,
 2,
 11
 ),
@@ -2646,7 +2646,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 293,
 'Tarakeshwor',
 'तारकेश्वर',
-28,
+27,
 2,
 11
 ),
@@ -2655,7 +2655,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 294,
 'Dakshinkali',
 'दक्षिणकाली',
-28,
+27,
 2,
 9
 ),
@@ -2664,7 +2664,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 295,
 'Nagarjun',
 'नागार्जुन',
-28,
+27,
 2,
 10
 ),
@@ -2673,7 +2673,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 296,
 'Budhanilkantha',
 'बुढानिलकण्ठ',
-28,
+27,
 2,
 13
 ),
@@ -2682,7 +2682,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 297,
 'Shankharapur',
 'शङ्खरापुर',
-28,
+27,
 2,
 9
 ),
@@ -2691,7 +2691,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 298,
 'Bidur',
 'विदुर',
-31,
+28,
 2,
 13
 ),
@@ -2700,7 +2700,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 299,
 'Belkotgadhi',
 'बेलकोटगढी',
-31,
+28,
 2,
 13
 ),
@@ -2709,7 +2709,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 300,
 'Kakani',
 'ककनी',
-31,
+28,
 1,
 8
 ),
@@ -2718,7 +2718,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 301,
 'Kispang',
 'किस्पाङ',
-31,
+28,
 1,
 5
 ),
@@ -2727,7 +2727,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 302,
 'Tadi',
 'तादी',
-31,
+28,
 1,
 6
 ),
@@ -2736,7 +2736,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 303,
 'Tarakeshwor',
 'तारकेश्वर',
-31,
+28,
 1,
 6
 ),
@@ -2745,7 +2745,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 304,
 'Dupcheshwor',
 'दुप्चेश्वर',
-31,
+28,
 1,
 7
 ),
@@ -2754,7 +2754,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 305,
 'Panchakanya',
 'पञ्चकन्या',
-31,
+28,
 1,
 5
 ),
@@ -2763,7 +2763,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 306,
 'Likhu',
 'लिखु',
-31,
+28,
 1,
 6
 ),
@@ -2772,7 +2772,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 307,
 'Meghang',
 'म्यगङ',
-31,
+28,
 1,
 6
 ),
@@ -2781,7 +2781,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 308,
 'Shivapuri',
 'शिवपुरी',
-31,
+28,
 1,
 8
 ),
@@ -2790,7 +2790,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 309,
 'Suryagadhi',
 'सुर्यगढी',
-31,
+28,
 1,
 5
 ),
@@ -2799,7 +2799,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 310,
 'Uttargaya',
 'उत्तरगया',
-32,
+29,
 1,
 5
 ),
@@ -2808,7 +2808,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 311,
 'Kalika',
 'कालिका',
-32,
+29,
 1,
 5
 ),
@@ -2817,7 +2817,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 312,
 'Gosaikunda',
 'गोसाईकुण्ड',
-32,
+29,
 1,
 6
 ),
@@ -2826,7 +2826,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 313,
 'Naukunda',
 'नौकुण्ड',
-32,
+29,
 1,
 6
 ),
@@ -2835,7 +2835,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 314,
 'Aamachhodingmo',
 'आमाछोदिङमो',
-32,
+29,
 1,
 5
 ),
@@ -2844,7 +2844,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 315,
 'Dhunibeshi',
 'धुनीबेंशी',
-27,
+30,
 2,
 9
 ),
@@ -2853,7 +2853,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 316,
 'Neelakantha',
 'निलकण्ठ',
-27,
+30,
 2,
 14
 ),
@@ -2862,7 +2862,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 317,
 'Khaniyabas',
 'खनियाबास',
-27,
+30,
 1,
 5
 ),
@@ -2871,7 +2871,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 318,
 'Gajuri',
 'गजुरी',
-27,
+30,
 1,
 8
 ),
@@ -2880,7 +2880,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 319,
 'Galchhi',
 'गल्छी',
-27,
+30,
 1,
 8
 ),
@@ -2889,7 +2889,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 320,
 'Gangajamuna',
 'गङ्गाजमुना',
-27,
+30,
 1,
 7
 ),
@@ -2898,7 +2898,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 321,
 'Jwalamukhi',
 'ज्वालामूखी',
-27,
+30,
 1,
 7
 ),
@@ -2907,7 +2907,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 322,
 'Thakre',
 'थाक्रे',
-27,
+30,
 1,
 11
 ),
@@ -2916,7 +2916,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 323,
 'Netrawati Dabajong',
 'नेत्रावती डबजोङ',
-27,
+30,
 1,
 5
 ),
@@ -2925,7 +2925,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 324,
 'Benighat Rorang',
 'बेनीघाट रोराङ्ग',
-27,
+30,
 1,
 10
 ),
@@ -2934,7 +2934,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 325,
 'Rubi Valley',
 'रुवी भ्याली',
-27,
+30,
 1,
 6
 ),
@@ -2943,7 +2943,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 326,
 'Siddhalek',
 'सिद्धलेक',
-27,
+30,
 1,
 7
 ),
@@ -2952,7 +2952,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 327,
 'Tripurasundari',
 'त्रिपुरासुन्दरी',
-27,
+30,
 1,
 7
 ),
@@ -2961,7 +2961,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 328,
 'Hetauda',
 'हेटौडा',
-35,
+31,
 3,
 19
 ),
@@ -2970,7 +2970,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 329,
 'Thaha',
 'थाहा',
-35,
+31,
 2,
 12
 ),
@@ -2979,7 +2979,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 330,
 'Indrasarowar',
 'इन्द्रसरोबर',
-35,
+31,
 1,
 5
 ),
@@ -2988,7 +2988,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 331,
 'Kailash',
 'कैलाश',
-35,
+31,
 1,
 10
 ),
@@ -2997,7 +2997,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 332,
 'Bakaiya',
 'बकैया',
-35,
+31,
 1,
 12
 ),
@@ -3006,7 +3006,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 333,
 'Bagmati',
 'बाग्मति',
-35,
+31,
 1,
 9
 ),
@@ -3015,7 +3015,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 334,
 'Bhimphedi',
 'भिमफेदी',
-35,
+31,
 1,
 9
 ),
@@ -3024,7 +3024,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 335,
 'Makawanpurgadhi',
 'मकवानपुरगढी',
-35,
+31,
 1,
 8
 ),
@@ -3033,7 +3033,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 336,
 'Manahari',
 'मनहरी',
-35,
+31,
 1,
 9
 ),
@@ -3042,7 +3042,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 337,
 'Raksirang',
 'राक्सिराङ्ग',
-35,
+31,
 1,
 9
 ),
@@ -3051,7 +3051,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 338,
 'Chandrapur',
 'चन्द्रपुर',
-17,
+32,
 2,
 10
 ),
@@ -3060,7 +3060,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 339,
 'Garuda',
 'गरुडा',
-17,
+32,
 2,
 9
 ),
@@ -3069,7 +3069,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 340,
 'Gaur',
 'गौर',
-17,
+32,
 2,
 9
 ),
@@ -3078,7 +3078,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 341,
 'Baudhimai',
 'बौधीमाई',
-17,
+32,
 2,
 9
 ),
@@ -3087,7 +3087,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 342,
 'Brindawan',
 'बृन्दावन',
-17,
+32,
 2,
 9
 ),
@@ -3096,7 +3096,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 343,
 'Dewahi Gonahi',
 'देवाही गोनाही',
-17,
+32,
 2,
 9
 ),
@@ -3105,7 +3105,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 344,
 'Gadhimai',
 'गढीमाई',
-17,
+32,
 2,
 9
 ),
@@ -3114,7 +3114,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 345,
 'Gujara',
 'गुजरा',
-17,
+32,
 2,
 9
 ),
@@ -3123,7 +3123,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 346,
 'Katahariya',
 'कटहरिया',
-17,
+32,
 2,
 9
 ),
@@ -3132,7 +3132,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 347,
 'Madhav Narayan',
 'माधव नारायण',
-17,
+32,
 2,
 9
 ),
@@ -3141,7 +3141,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 348,
 'Maulapur',
 'मौलापुर',
-17,
+32,
 2,
 9
 ),
@@ -3150,7 +3150,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 349,
 'Phatuwabijaypur',
 'फतुवाबिजयपुर',
-17,
+32,
 2,
 11
 ),
@@ -3159,7 +3159,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 350,
 'Ishnath',
 'ईशनाथ',
-17,
+32,
 2,
 9
 ),
@@ -3168,7 +3168,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 351,
 'Paroha',
 'परोहा',
-17,
+32,
 2,
 9
 ),
@@ -3177,7 +3177,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 352,
 'Rajpur',
 'राजपुर',
-17,
+32,
 2,
 9
 ),
@@ -3186,7 +3186,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 353,
 'Rajdevi',
 'राजदेवी',
-17,
+32,
 2,
 9
 ),
@@ -3195,7 +3195,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 354,
 'Durga Bhagawati',
 'दुर्गा भगवती',
-17,
+32,
 1,
 5
 ),
@@ -3204,7 +3204,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 355,
 'Yamunamai',
 'यमुनामाई',
-17,
+32,
 1,
 5
 ),
@@ -3213,7 +3213,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 356,
 'Kalaiya',
 'कलैया',
-16,
+33,
 3,
 27
 ),
@@ -3222,7 +3222,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 357,
 'Jeetpur Simara',
 'जीतपुर सिमरा',
-16,
+33,
 3,
 24
 ),
@@ -3231,7 +3231,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 358,
 'Kolhabi',
 'कोल्हवी',
-16,
+33,
 2,
 11
 ),
@@ -3240,7 +3240,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 359,
 'Nijgadh',
 'निजगढ',
-16,
+33,
 2,
 13
 ),
@@ -3249,7 +3249,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 360,
 'Mahagadimai',
 'महागढीमाई',
-16,
+33,
 2,
 11
 ),
@@ -3258,7 +3258,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 361,
 'Simraungadh',
 'सिम्रौनगढ',
-16,
+33,
 2,
 11
 ),
@@ -3267,7 +3267,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 362,
 'Pachrauta',
 'पचरौता',
-16,
+33,
 2,
 9
 ),
@@ -3276,7 +3276,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 363,
 'Aadarsha Kotwal',
 'आदर्श कोटवाल',
-16,
+33,
 1,
 8
 ),
@@ -3285,7 +3285,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 364,
 'Karaiyamai',
 'करैयामाई',
-16,
+33,
 1,
 8
 ),
@@ -3294,7 +3294,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 365,
 'Devtal',
 'देवताल',
-16,
+33,
 1,
 7
 ),
@@ -3303,7 +3303,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 366,
 'Parwanipur',
 'परवानीपुर',
-16,
+33,
 1,
 5
 ),
@@ -3312,7 +3312,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 367,
 'Prasauni',
 'प्रसौनी',
-16,
+33,
 1,
 7
 ),
@@ -3321,7 +3321,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 368,
 'Pheta',
 'फेटा',
-16,
+33,
 1,
 7
 ),
@@ -3330,7 +3330,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 369,
 'Baragadhi',
 'बारागढी',
-16,
+33,
 1,
 6
 ),
@@ -3339,7 +3339,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 370,
 'Suwarna',
 'सुवर्ण',
-16,
+33,
 1,
 8
 ),
@@ -3348,7 +3348,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 371,
 'Bishrampur',
 'विश्रामपुर',
-16,
+33,
 1,
 5
 ),
@@ -3357,7 +3357,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 372,
 'Birgunj',
 'बिरगंज',
-15,
+34,
 4,
 32
 ),
@@ -3366,7 +3366,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 373,
 'Pokhariya',
 'पोखरिया',
-15,
+34,
 2,
 10
 ),
@@ -3375,7 +3375,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 374,
 'Bahudarmai',
 'बहुदरमाई',
-15,
+34,
 2,
 9
 ),
@@ -3384,7 +3384,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 375,
 'Parsagadhi',
 'पर्सागढी',
-15,
+34,
 2,
 9
 ),
@@ -3393,7 +3393,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 376,
 'Thori',
 'ठोरी',
-15,
+34,
 1,
 5
 ),
@@ -3402,7 +3402,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 377,
 'Jagarnathpur',
 'जगरनाथपुर',
-15,
+34,
 1,
 6
 ),
@@ -3411,7 +3411,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 378,
 'Dhobini',
 'धोबीनी',
-15,
+34,
 1,
 5
 ),
@@ -3420,7 +3420,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 379,
 'Chhipaharmai',
 'छिपहरमाई',
-15,
+34,
 1,
 5
 ),
@@ -3429,7 +3429,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 380,
 'Pakaha Mainpur',
 'पकाहा मैनपुर',
-15,
+34,
 1,
 5
 ),
@@ -3438,7 +3438,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 381,
 'Bindabasini',
 'बिन्दबासिनी',
-15,
+34,
 1,
 5
 ),
@@ -3447,7 +3447,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 382,
 'Sakhuwa Prasauni',
 'सखुवा प्रसौनी',
-15,
+34,
 1,
 6
 ),
@@ -3456,7 +3456,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 383,
 'Paterwa Sugauli',
 'पटेर्वा सुगौली',
-15,
+34,
 1,
 5
 ),
@@ -3465,7 +3465,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 384,
 'Kalikamai',
 'कालिकामाई',
-15,
+34,
 1,
 5
 ),
@@ -3474,7 +3474,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 385,
 'Jira Bhawani',
 'जिरा भवानी',
-15,
+34,
 1,
 5
 ),
@@ -3483,7 +3483,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 386,
 'Bharatpur',
 'भरतपुर',
-34,
+35,
 4,
 29
 ),
@@ -3492,7 +3492,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 387,
 'Kalika',
 'कालिका',
-34,
+35,
 2,
 11
 ),
@@ -3501,7 +3501,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 388,
 'Khairhani',
 'खैरहनी',
-34,
+35,
 2,
 13
 ),
@@ -3510,7 +3510,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 389,
 'Madi',
 'माडी',
-34,
+35,
 2,
 9
 ),
@@ -3519,7 +3519,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 390,
 'Ratnanagar',
 'रत्ननगर',
-34,
+35,
 2,
 16
 ),
@@ -3528,7 +3528,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 391,
 'Rapti',
 'राप्ती',
-34,
+35,
 2,
 13
 ),
@@ -3537,7 +3537,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 392,
 'Ichchhakamana',
 'इच्छाकामना',
-34,
+35,
 1,
 7
 ),
@@ -3546,7 +3546,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 393,
 'Gorkha',
 'गोरखा',
-37,
+36,
 2,
 14
 ),
@@ -3555,7 +3555,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 394,
 'Palungtar',
 'पालुङटार',
-37,
+36,
 2,
 10
 ),
@@ -3564,7 +3564,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 395,
 'Barpak Sulikot',
 'बारपाक सुलिकोट',
-37,
+36,
 1,
 8
 ),
@@ -3573,7 +3573,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 396,
 'Siranchowk',
 'सिरानचोक',
-37,
+36,
 1,
 8
 ),
@@ -3582,7 +3582,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 397,
 'Ajirkot',
 'अजिरकोट',
-37,
+36,
 1,
 5
 ),
@@ -3591,7 +3591,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 398,
 'Aarughat',
 'आरूघाट',
-37,
+36,
 1,
 10
 ),
@@ -3600,7 +3600,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 399,
 'Gandaki',
 'गण्डकी',
-37,
+36,
 1,
 8
 ),
@@ -3609,7 +3609,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 400,
 'Chumanuwri',
 'चुमनुव्री',
-37,
+36,
 1,
 7
 ),
@@ -3618,7 +3618,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 401,
 'Dharche',
 'धार्चे',
-37,
+36,
 1,
 7
 ),
@@ -3627,7 +3627,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 402,
 'Bhimsen',
 'भिमसेनथापा',
-37,
+36,
 1,
 8
 ),
@@ -3636,7 +3636,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 403,
 'Shahid Lakhan',
 'शहिद लखन',
-37,
+36,
 1,
 9
 ),
@@ -3645,7 +3645,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 404,
 'Besishahar',
 'बेसीशहर',
-39,
+37,
 2,
 11
 ),
@@ -3654,7 +3654,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 405,
 'Madhyanepal',
 'मध्यनेपाल',
-39,
+37,
 2,
 10
 ),
@@ -3663,7 +3663,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 406,
 'Rainas',
 'राईनास',
-39,
+37,
 2,
 10
 ),
@@ -3672,7 +3672,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 407,
 'Sundarbazar',
 'सुन्दरबजार',
-39,
+37,
 2,
 11
 ),
@@ -3681,7 +3681,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 408,
 'Kwholasothar',
 'क्व्होलासोथार',
-39,
+37,
 1,
 9
 ),
@@ -3690,7 +3690,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 409,
 'Dudhpokhari',
 'दूधपोखरी',
-39,
+37,
 1,
 6
 ),
@@ -3699,7 +3699,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 410,
 'Dordi',
 'दोर्दी',
-39,
+37,
 1,
 9
 ),
@@ -3708,7 +3708,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 411,
 'Marsyangdi',
 'मर्स्याङदी',
-39,
+37,
 1,
 9
 ),
@@ -3717,7 +3717,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 412,
 'Bhanu',
 'भानु',
-46,
+38,
 2,
 13
 ),
@@ -3726,7 +3726,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 413,
 'Bhimad',
 'भिमाद',
-46,
+38,
 2,
 9
 ),
@@ -3735,7 +3735,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 414,
 'Vyas',
 'व्यास',
-46,
+38,
 2,
 14
 ),
@@ -3744,7 +3744,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 415,
 'Shuklagandaki',
 'शुक्लागण्डकी',
-46,
+38,
 2,
 12
 ),
@@ -3753,7 +3753,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 416,
 'Aanbookhaireni',
 'आँबुखैरेनी',
-46,
+38,
 1,
 6
 ),
@@ -3762,7 +3762,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 417,
 'Rishing',
 'ऋषिङ्ग',
-46,
+38,
 1,
 8
 ),
@@ -3771,7 +3771,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 418,
 'Ghiring',
 'घिरिङ',
-46,
+38,
 1,
 5
 ),
@@ -3780,7 +3780,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 419,
 'Devghat',
 'देवघाट',
-46,
+38,
 1,
 5
 ),
@@ -3789,7 +3789,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 420,
 'Myagde',
 'म्याग्दे',
-46,
+38,
 1,
 7
 ),
@@ -3798,7 +3798,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 421,
 'Bandipur',
 'वन्दिपुर',
-46,
+38,
 1,
 6
 ),
@@ -3807,7 +3807,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 422,
 'Galyang',
 'गल्याङ',
-45,
+39,
 2,
 11
 ),
@@ -3816,7 +3816,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 423,
 'Chapakot',
 'चापाकोट',
-45,
+39,
 2,
 10
 ),
@@ -3825,7 +3825,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 424,
 'Putalibazar',
 'पुतलीबजार',
-45,
+39,
 2,
 14
 ),
@@ -3834,7 +3834,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 425,
 'Bheerkot',
 'भीरकोट',
-45,
+39,
 2,
 9
 ),
@@ -3843,7 +3843,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 426,
 'Waling',
 'वालिङ',
-45,
+39,
 2,
 14
 ),
@@ -3852,7 +3852,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 427,
 'Arjunchaupari',
 'अर्जुनचौपारी',
-45,
+39,
 1,
 6
 ),
@@ -3861,7 +3861,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 428,
 'Aandhikhola',
 'आँधिखोला',
-45,
+39,
 1,
 6
 ),
@@ -3870,7 +3870,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 429,
 'Kaligandaki',
 'कालीगण्डकी',
-45,
+39,
 1,
 7
 ),
@@ -3879,7 +3879,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 430,
 'Phedikhola',
 'फेदीखोला',
-45,
+39,
 1,
 5
 ),
@@ -3888,7 +3888,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 431,
 'Biruwa',
 'बिरुवा',
-45,
+39,
 1,
 8
 ),
@@ -3897,7 +3897,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 432,
 'Harinas',
 'हरिनास',
-45,
+39,
 1,
 7
 ),
@@ -3906,7 +3906,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 433,
 'Pokhara',
 'पोखरा',
-38,
+40,
 4,
 33
 ),
@@ -3915,7 +3915,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 434,
 'Annapurna',
 'अन्नपूर्ण',
-38,
+40,
 1,
 11
 ),
@@ -3924,7 +3924,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 435,
 'Machhapuchhre',
 'माछापुच्छ्रे',
-38,
+40,
 1,
 9
 ),
@@ -3933,7 +3933,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 436,
 'Madi',
 'मादी',
-38,
+40,
 1,
 12
 ),
@@ -3942,7 +3942,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 437,
 'Rupa',
 'रूपा',
-38,
+40,
 1,
 7
 ),
@@ -3951,7 +3951,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 438,
 'Chame',
 'चामे',
-40,
+41,
 1,
 5
 ),
@@ -3960,7 +3960,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 439,
 'Narpa Bhumi',
 'नार्पा भूमि',
-40,
+41,
 1,
 5
 ),
@@ -3969,7 +3969,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 440,
 'Nason',
 'नासोँ',
-40,
+41,
 1,
 9
 ),
@@ -3978,7 +3978,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 441,
 'Manang Ngisyang',
 'मनाङ ङिस्याङ',
-40,
+41,
 1,
 9
 ),
@@ -3987,7 +3987,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 442,
 'Gharapjhong',
 'घरपझोङ',
-41,
+42,
 1,
 5
 ),
@@ -3996,7 +3996,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 443,
 'Thasang',
 'थासाङ',
-41,
+42,
 1,
 5
 ),
@@ -4005,7 +4005,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 444,
 'Lo Ghekar Damodarkunda',
 'लो घेकर दामोदरकुण्ड',
-41,
+42,
 1,
 5
 ),
@@ -4014,7 +4014,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 445,
 'Lomanthang',
 'लोमन्थाङ',
-41,
+42,
 1,
 5
 ),
@@ -4023,7 +4023,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 446,
 'Bahragung Muktichhetra',
 'वारागुङ मुक्तिक्षेत्र',
-41,
+42,
 1,
 5
 ),
@@ -4032,7 +4032,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 447,
 'Beni',
 'बेनी',
-42,
+43,
 2,
 10
 ),
@@ -4041,7 +4041,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 448,
 'Annapurna',
 'अन्नपुर्ण',
-42,
+43,
 1,
 8
 ),
@@ -4050,7 +4050,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 449,
 'Dhawalagiri',
 'धवलागिरी',
-42,
+43,
 1,
 7
 ),
@@ -4059,7 +4059,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 450,
 'Mangala',
 'मंगला',
-42,
+43,
 1,
 5
 ),
@@ -4068,7 +4068,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 451,
 'Malika',
 'मालिका',
-42,
+43,
 1,
 7
 ),
@@ -4077,7 +4077,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 452,
 'Raghuganga',
 'रघुगंगा',
-42,
+43,
 1,
 8
 ),
@@ -4149,7 +4149,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 460,
 'Baglung',
 'बागलुङ',
-36,
+45,
 2,
 14
 ),
@@ -4158,7 +4158,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 461,
 'Galkot',
 'गल्कोट',
-36,
+45,
 2,
 11
 ),
@@ -4167,7 +4167,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 462,
 'Jaimini',
 'जैमूनी',
-36,
+45,
 2,
 10
 ),
@@ -4176,7 +4176,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 463,
 'Dhorpatan',
 'ढोरपाटन',
-36,
+45,
 2,
 9
 ),
@@ -4185,7 +4185,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 464,
 'Bareng',
 'वरेङ',
-36,
+45,
 1,
 5
 ),
@@ -4194,7 +4194,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 465,
 'Kathekhola',
 'काठेखोला',
-36,
+45,
 1,
 8
 ),
@@ -4203,7 +4203,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 466,
 'Tamankhola',
 'तमानखोला',
-36,
+45,
 1,
 6
 ),
@@ -4212,7 +4212,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 467,
 'Tarakhola',
 'ताराखोला',
-36,
+45,
 1,
 5
 ),
@@ -4221,7 +4221,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 468,
 'Nisikhola',
 'निसीखोला',
-36,
+45,
 1,
 7
 ),
@@ -4230,7 +4230,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 469,
 'Badigad',
 'वडिगाड',
-36,
+45,
 1,
 10
 ),
@@ -4239,7 +4239,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 470,
 'Musikot',
 'मुसिकोट',
-51,
+46,
 2,
 9
 ),
@@ -4248,7 +4248,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 471,
 'Resunga',
 'रेसुङ्गा',
-51,
+46,
 2,
 14
 ),
@@ -4257,7 +4257,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 472,
 'Ishma',
 'ईस्मा',
-51,
+46,
 1,
 6
 ),
@@ -4266,7 +4266,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 473,
 'Kaligandaki',
 'कालीगण्डकी',
-51,
+46,
 1,
 7
 ),
@@ -4275,7 +4275,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 474,
 'Gulmi Darbar',
 'गुल्मी दरबार',
-51,
+46,
 1,
 7
 ),
@@ -4284,7 +4284,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 475,
 'Satyawati',
 'सत्यवती',
-51,
+46,
 1,
 8
 ),
@@ -4293,7 +4293,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 476,
 'Chandrakot',
 'चन्द्रकोट',
-51,
+46,
 1,
 8
 ),
@@ -4302,7 +4302,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 477,
 'Rurukshetra',
 'रुरुक्षेत्र',
-51,
+46,
 1,
 6
 ),
@@ -4311,7 +4311,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 478,
 'Chhatrakot',
 'छत्रकोट',
-51,
+46,
 1,
 6
 ),
@@ -4320,7 +4320,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 479,
 'Dhurkot',
 'धुर्कोट',
-51,
+46,
 1,
 7
 ),
@@ -4329,7 +4329,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 480,
 'Madane',
 'मदाने',
-51,
+46,
 1,
 7
 ),
@@ -4338,7 +4338,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 481,
 'Malika',
 'मालिका',
-51,
+46,
 1,
 8
 ),
@@ -4347,7 +4347,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 482,
 'Rampur',
 'रामपुर',
-52,
+47,
 2,
 10
 ),
@@ -4356,7 +4356,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 483,
 'Tansen',
 'तानसेन',
-52,
+47,
 2,
 14
 ),
@@ -4365,7 +4365,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 484,
 'Nisdi',
 'निस्दी',
-52,
+47,
 1,
 7
 ),
@@ -4374,7 +4374,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 485,
 'Purbakhola',
 'पूर्वखोला',
-52,
+47,
 1,
 6
 ),
@@ -4383,7 +4383,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 486,
 'Rambha',
 'रम्भा',
-52,
+47,
 1,
 5
 ),
@@ -4392,7 +4392,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 487,
 'Mathagadhi',
 'माथागढी',
-52,
+47,
 1,
 8
 ),
@@ -4401,7 +4401,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 488,
 'Tinau',
 'तिनाउ',
-52,
+47,
 1,
 6
 ),
@@ -4410,7 +4410,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 489,
 'Baganaskali',
 'बगनासकाली',
-52,
+47,
 1,
 9
 ),
@@ -4419,7 +4419,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 490,
 'Ribdikot',
 'रिब्दिकोट',
-52,
+47,
 1,
 8
 ),
@@ -4428,7 +4428,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 491,
 'Rainadevi Chhahara',
 'रैनादेवी छहरा',
-52,
+47,
 1,
 8
 ),
@@ -4581,7 +4581,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 508,
 'Kapilvastu',
 'कपिलवस्तु',
-47,
+50,
 2,
 12
 ),
@@ -4590,7 +4590,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 509,
 'Buddhabhumi',
 'बुद्धभुमी',
-47,
+50,
 2,
 10
 ),
@@ -4599,7 +4599,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 510,
 'Shivraj',
 'शिवराज',
-47,
+50,
 2,
 11
 ),
@@ -4608,7 +4608,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 511,
 'Maharajgunj',
 'महाराजगंज',
-47,
+50,
 2,
 11
 ),
@@ -4617,7 +4617,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 512,
 'Krishnanagar',
 'कृष्णनगर',
-47,
+50,
 2,
 12
 ),
@@ -4626,7 +4626,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 513,
 'Banganga',
 'बाणगंगा',
-47,
+50,
 2,
 11
 ),
@@ -4635,7 +4635,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 514,
 'Mayadevi',
 'मायादेवी',
-47,
+50,
 1,
 8
 ),
@@ -4644,7 +4644,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 515,
 'Yasodhara',
 'यसोधरा',
-47,
+50,
 1,
 8
 ),
@@ -4653,7 +4653,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 516,
 'Shuddhodhan',
 'सुद्धोधन',
-47,
+50,
 1,
 6
 ),
@@ -4662,7 +4662,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 517,
 'Bijaynagar',
 'विजयनगर',
-47,
+50,
 1,
 7
 ),
@@ -4671,7 +4671,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 518,
 'Sandhikharka',
 'सन्धिखर्क',
-50,
+51,
 2,
 12
 ),
@@ -4680,7 +4680,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 519,
 'Shitaganga',
 'शितगंगा',
-50,
+51,
 2,
 14
 ),
@@ -4689,7 +4689,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 520,
 'Bhumikasthan',
 'भूमिकास्थान',
-50,
+51,
 2,
 10
 ),
@@ -4698,7 +4698,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 521,
 'Chhatradev',
 'छत्रदेव',
-50,
+51,
 1,
 8
 ),
@@ -4707,7 +4707,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 522,
 'Panini',
 'पाणिनी',
-50,
+51,
 1,
 8
 ),
@@ -4716,7 +4716,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 523,
 'Malarani',
 'मालारानी',
-50,
+51,
 1,
 9
 ),
@@ -4725,7 +4725,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 524,
 'Pyuthan',
 'प्यूठान',
-54,
+52,
 2,
 10
 ),
@@ -4734,7 +4734,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 525,
 'Swargadwari',
 'स्वर्गद्वारी',
-54,
+52,
 2,
 9
 ),
@@ -4743,7 +4743,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 526,
 'Gaumukhi',
 'गौमुखी',
-54,
+52,
 1,
 7
 ),
@@ -4752,7 +4752,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 527,
 'Mandavi',
 'माण्डवी',
-54,
+52,
 1,
 5
 ),
@@ -4761,7 +4761,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 528,
 'Sarumarani',
 'सरुमारानी',
-54,
+52,
 1,
 6
 ),
@@ -4770,7 +4770,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 529,
 'Mallarani',
 'मल्लरानी',
-54,
+52,
 1,
 5
 ),
@@ -4779,7 +4779,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 530,
 'Naubahini',
 'नौवहिनी',
-54,
+52,
 1,
 8
 ),
@@ -4788,7 +4788,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 531,
 'Jhimruk',
 'झिमरुक',
-54,
+52,
 1,
 8
 ),
@@ -4797,7 +4797,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 532,
 'Airawati',
 'ऐरावती',
-54,
+52,
 1,
 6
 ),
@@ -4806,7 +4806,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 533,
 'Rolpa',
 'रोल्पा',
-55,
+53,
 2,
 10
 ),
@@ -4815,7 +4815,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 534,
 'Triveni',
 'त्रिवेणी',
-55,
+53,
 1,
 7
 ),
@@ -4824,7 +4824,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 535,
 'Duikholi',
 'परिवर्तन',
-55,
+53,
 1,
 6
 ),
@@ -4833,7 +4833,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 536,
 'Madi',
 'माडी',
-55,
+53,
 1,
 6
 ),
@@ -4842,7 +4842,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 537,
 'Runtigadhi',
 'रुन्टीगढी',
-55,
+53,
 1,
 9
 ),
@@ -4851,7 +4851,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 538,
 'Lungri',
 'लुङग्री',
-55,
+53,
 1,
 7
 ),
@@ -4860,7 +4860,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 539,
 'Sukidaha',
 'गंगादेव',
-55,
+53,
 1,
 7
 ),
@@ -4869,7 +4869,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 540,
 'Sunchhahari',
 'सुनछहरी',
-55,
+53,
 1,
 7
 ),
@@ -4878,7 +4878,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 541,
 'Sunil Smriti',
 'सुनिल स्मृति',
-55,
+53,
 1,
 8
 ),
@@ -4887,7 +4887,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 542,
 'Thabang',
 'थवाङ',
-55,
+53,
 1,
 5
 ),
@@ -4896,7 +4896,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 543,
 'Musikot',
 'मुसिकोट',
-59,
+542,
 2,
 14
 ),
@@ -4905,7 +4905,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 544,
 'Chaurjahari',
 'चौरजहारी',
-59,
+542,
 2,
 14
 ),
@@ -4914,7 +4914,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 545,
 'Aathbiskot',
 'आठबिसकोट',
-59,
+542,
 2,
 14
 ),
@@ -4923,7 +4923,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 546,
 'Putha Uttarganga',
 'पुथा उत्तरगंगा',
-56,
+541,
 1,
 14
 ),
@@ -4932,7 +4932,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 547,
 'Bhume',
 'भूमे',
-56,
+541,
 1,
 9
 ),
@@ -4941,7 +4941,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 548,
 'Sisne',
 'सिस्ने',
-56,
+541,
 1,
 8
 ),
@@ -4950,7 +4950,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 549,
 'Banphikot',
 'बाँफिकोट',
-59,
+542,
 1,
 10
 ),
@@ -4959,7 +4959,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 550,
 'Triveni',
 'त्रिवेणी',
-59,
+542,
 1,
 10
 ),
@@ -4968,7 +4968,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 551,
 'Sani Bheri',
 'सानी भेरी',
-59,
+542,
 1,
 11
 ),
@@ -4977,7 +4977,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 552,
 'Shaarada',
 'शारदा',
-60,
+55,
 2,
 15
 ),
@@ -4986,7 +4986,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 553,
 'Bagchaur',
 'बागचौर',
-60,
+55,
 2,
 12
 ),
@@ -4995,7 +4995,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 554,
 'Bangad Kupinde',
 'बनगाड कुपिण्डे',
-60,
+55,
 2,
 12
 ),
@@ -5004,7 +5004,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 555,
 'Kalimati',
 'कालिमाटी',
-60,
+55,
 1,
 7
 ),
@@ -5013,7 +5013,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 556,
 'Triveni',
 'त्रिवेणी',
-60,
+55,
 1,
 6
 ),
@@ -5022,7 +5022,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 557,
 'Kapurkot',
 'कपुरकोट',
-60,
+55,
 1,
 6
 ),
@@ -5031,7 +5031,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 558,
 'Chhatreshwori',
 'छत्रेश्वरी',
-60,
+55,
 1,
 7
 ),
@@ -5040,7 +5040,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 559,
 'Siddha Kumakh',
 'सिद्ध कुमाख',
-60,
+55,
 1,
 5
 ),
@@ -5049,7 +5049,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 560,
 'Kumakh',
 'कुमाख',
-60,
+55,
 1,
 7
 ),
@@ -5058,7 +5058,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 561,
 'Darma',
 'दार्मा',
-60,
+55,
 1,
 6
 ),
@@ -5067,7 +5067,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 562,
 'Tulsipur',
 'तुल्सीपुर',
-53,
+56,
 3,
 19
 ),
@@ -5076,7 +5076,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 563,
 'Ghorahi',
 'घोराही',
-53,
+56,
 3,
 19
 ),
@@ -5085,7 +5085,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 564,
 'Lamahi',
 'लमही',
-53,
+56,
 2,
 9
 ),
@@ -5094,7 +5094,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 565,
 'Bangalachuli',
 'बंगलाचुली',
-53,
+56,
 1,
 8
 ),
@@ -5103,7 +5103,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 566,
 'Dangisharan',
 'दंगीशरण',
-53,
+56,
 1,
 7
 ),
@@ -5112,7 +5112,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 567,
 'Gadhawa',
 'गढवा',
-53,
+56,
 1,
 8
 ),
@@ -5121,7 +5121,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 568,
 'Rajpur',
 'राजपुर',
-53,
+56,
 1,
 7
 ),
@@ -5130,7 +5130,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 569,
 'Rapti',
 'राप्ती',
-53,
+56,
 1,
 9
 ),
@@ -5139,7 +5139,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 570,
 'Shantinagar',
 'शान्तिनगर',
-53,
+56,
 1,
 7
 ),
@@ -5148,7 +5148,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 571,
 'Babai',
 'बबई',
-53,
+56,
 1,
 7
 ),
@@ -5301,7 +5301,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 588,
 'Birendranagar',
 'बीरेन्द्रनगर',
-66,
+59,
 2,
 16
 ),
@@ -5310,7 +5310,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 589,
 'Bheriganga',
 'भेरीगंगा',
-66,
+59,
 2,
 13
 ),
@@ -5319,7 +5319,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 590,
 'Gurbhakot',
 'गुर्भाकोट',
-66,
+59,
 2,
 14
 ),
@@ -5328,7 +5328,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 591,
 'Panchapuri',
 'पञ्चपुरी',
-66,
+59,
 2,
 11
 ),
@@ -5337,7 +5337,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 592,
 'Lekbeshi',
 'लेकवेशी',
-66,
+59,
 2,
 10
 ),
@@ -5346,7 +5346,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 593,
 'Chaukune',
 'चौकुने',
-66,
+59,
 1,
 10
 ),
@@ -5355,7 +5355,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 594,
 'Barahatal',
 'बराहताल',
-66,
+59,
 1,
 10
 ),
@@ -5364,7 +5364,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 595,
 'Chingad',
 'चिङ्गाड',
-66,
+59,
 1,
 6
 ),
@@ -5373,7 +5373,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 596,
 'Simta',
 'सिम्ता',
-66,
+59,
 1,
 9
 ),
@@ -5382,7 +5382,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 597,
 'Narayan',
 'नारायण',
-67,
+60,
 2,
 11
 ),
@@ -5391,7 +5391,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 598,
 'Dullu',
 'दुल्लु',
-67,
+60,
 2,
 13
 ),
@@ -5400,7 +5400,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 599,
 'Chamunda Bindrasaini',
 'चामुण्डा विन्द्रासैनी',
-67,
+60,
 2,
 9
 ),
@@ -5409,7 +5409,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 600,
 'Aathabis',
 'आठबीस',
-67,
+60,
 2,
 9
 ),
@@ -5418,7 +5418,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 601,
 'Bhagawatimai',
 'भगवतीमाई',
-67,
+60,
 1,
 7
 ),
@@ -5427,7 +5427,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 602,
 'Gurans',
 'गुराँस',
-67,
+60,
 1,
 8
 ),
@@ -5436,7 +5436,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 603,
 'Dungeshwor',
 'डुंगेश्वर',
-67,
+60,
 1,
 6
 ),
@@ -5445,7 +5445,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 604,
 'Naumule',
 'नौमुले',
-67,
+60,
 1,
 8
 ),
@@ -5454,7 +5454,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 605,
 'Mahabu',
 'महावु',
-67,
+60,
 1,
 6
 ),
@@ -5463,7 +5463,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 606,
 'Bhairabi',
 'भैरवी',
-67,
+60,
 1,
 7
 ),
@@ -5472,7 +5472,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 607,
 'Thantikandh',
 'ठाँटीकाँध',
-67,
+60,
 1,
 6
 ),
@@ -5481,7 +5481,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 608,
 'Bheri',
 'भेरी',
-68,
+61,
 2,
 13
 ),
@@ -5490,7 +5490,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 609,
 'Chhedagad',
 'छेडागाड',
-68,
+61,
 2,
 13
 ),
@@ -5499,7 +5499,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 610,
 'Nalgaad',
 'नलगाड',
-68,
+61,
 2,
 13
 ),
@@ -5508,7 +5508,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 611,
 'Barekot',
 'बारेकोट',
-68,
+61,
 1,
 9
 ),
@@ -5517,7 +5517,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 612,
 'Kushe',
 'कुसे',
-68,
+61,
 1,
 9
 ),
@@ -5526,7 +5526,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 613,
 'Junichaande',
 'जुनीचाँदे',
-68,
+61,
 1,
 11
 ),
@@ -5535,7 +5535,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 614,
 'Shibalaya',
 'शिवालय',
-68,
+61,
 1,
 9
 ),
@@ -5544,7 +5544,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 615,
 'Thuli Bheri',
 'ठूली भेरी',
-61,
+62,
 2,
 11
 ),
@@ -5553,7 +5553,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 616,
 'Tripurasundari',
 'त्रिपुरासुन्दरी',
-61,
+62,
 2,
 11
 ),
@@ -5562,7 +5562,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 617,
 'Dolpo Buddha',
 'डोल्पो बुद्ध',
-61,
+62,
 1,
 6
 ),
@@ -5571,7 +5571,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 618,
 'She Phoksundo',
 'शे फोक्सुन्डो',
-61,
+62,
 1,
 9
 ),
@@ -5580,7 +5580,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 619,
 'Jagdulla',
 'जगदुल्ला',
-61,
+62,
 1,
 6
 ),
@@ -5589,7 +5589,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 620,
 'Mudkechula',
 'मुड्केचुला',
-61,
+62,
 1,
 9
 ),
@@ -5598,7 +5598,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 621,
 'Kaike',
 'काईके',
-61,
+62,
 1,
 7
 ),
@@ -5607,7 +5607,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 622,
 'Chharka Tangsong',
 'छार्का ताङसोङ',
-61,
+62,
 1,
 6
 ),
@@ -5805,7 +5805,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 644,
 'Simkot',
 'सिमकोट',
-62,
+66,
 1,
 8
 ),
@@ -5814,7 +5814,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 645,
 'Namkha',
 'नाम्खा',
-62,
+66,
 1,
 6
 ),
@@ -5823,7 +5823,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 646,
 'Kharpunath',
 'खार्पुनाथ',
-62,
+66,
 1,
 5
 ),
@@ -5832,7 +5832,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 647,
 'Sarkegad',
 'सर्केगाड',
-62,
+66,
 1,
 8
 ),
@@ -5841,7 +5841,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 648,
 'Chankheli',
 'चंखेली',
-62,
+66,
 1,
 6
 ),
@@ -5850,7 +5850,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 649,
 'Adanchuli',
 'अदानचुली',
-62,
+66,
 1,
 6
 ),
@@ -5859,7 +5859,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 650,
 'Tajakot',
 'ताँजाकोट',
-62,
+66,
 1,
 5
 ),
@@ -5868,7 +5868,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 651,
 'Badimalika',
 'बडीमालिका',
-73,
+67,
 2,
 9
 ),
@@ -5877,7 +5877,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 652,
 'Triveni',
 'त्रिवेणी',
-73,
+67,
 2,
 9
 ),
@@ -5886,7 +5886,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 653,
 'Budhiganga',
 'बुढीगंगा',
-73,
+67,
 2,
 10
 ),
@@ -5895,7 +5895,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 654,
 'Budhinanda',
 'बुढीनन्दा',
-73,
+67,
 2,
 10
 ),
@@ -5904,7 +5904,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 655,
 'Gaumul',
 'गौमुल',
-73,
+67,
 1,
 6
 ),
@@ -5913,7 +5913,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 656,
 'Jagganath',
 'जगन्‍नाथ',
-73,
+67,
 1,
 6
 ),
@@ -5922,7 +5922,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 657,
 'Swamikartik Khaapar',
 'स्वामीकार्तिक खापर',
-73,
+67,
 1,
 5
 ),
@@ -5931,7 +5931,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 658,
 'Khaptad Chhededaha',
 'खप्तड छेडेदह',
-73,
+67,
 1,
 7
 ),
@@ -5940,7 +5940,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 659,
 'Himali',
 'हिमाली',
-73,
+67,
 1,
 7
 ),
@@ -5949,7 +5949,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 660,
 'Jayaprithvi',
 'जयपृथ्वी',
-72,
+68,
 2,
 11
 ),
@@ -5958,7 +5958,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 661,
 'Bungal',
 'बुंगल',
-72,
+68,
 2,
 11
 ),
@@ -5967,7 +5967,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 662,
 'Talkot',
 'तलकोट',
-72,
+68,
 1,
 7
 ),
@@ -5976,7 +5976,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 663,
 'Masta',
 'मष्टा',
-72,
+68,
 1,
 7
 ),
@@ -5985,7 +5985,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 664,
 'Khaptadchhanna',
 'खप्तडछान्ना',
-72,
+68,
 1,
 7
 ),
@@ -5994,7 +5994,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 665,
 'Thalara',
 'थलारा',
-72,
+68,
 1,
 9
 ),
@@ -6003,7 +6003,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 666,
 'Bitthadchir',
 'वित्थडचिर',
-72,
+68,
 1,
 9
 ),
@@ -6012,7 +6012,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 667,
 'Surma',
 'सूर्मा',
-72,
+68,
 1,
 5
 ),
@@ -6021,7 +6021,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 668,
 'Chhabispathivera',
 'छबिसपाथिभेरा',
-72,
+68,
 1,
 7
 ),
@@ -6030,7 +6030,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 669,
 'Durgathali',
 'दुर्गाथली',
-72,
+68,
 1,
 7
 ),
@@ -6039,7 +6039,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 670,
 'Kedarasyu',
 'केदारस्युँ',
-72,
+68,
 1,
 9
 ),
@@ -6048,7 +6048,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 671,
 'Saipal',
 'साइपाल',
-72,
+68,
 1,
 5
 ),
@@ -6057,7 +6057,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 672,
 'Mangalsen',
 'मंगलसेन',
-70,
+69,
 2,
 14
 ),
@@ -6066,7 +6066,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 673,
 'Kamalbazar',
 'कमलबजार',
-70,
+69,
 2,
 10
 ),
@@ -6075,7 +6075,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 674,
 'Sanfebagar',
 'साँफेबगर',
-70,
+69,
 2,
 14
 ),
@@ -6084,7 +6084,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 675,
 'Panchadewal Binayak',
 'पन्चदेवल विनायक',
-70,
+69,
 2,
 9
 ),
@@ -6093,7 +6093,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 676,
 'Chaurpati',
 'चौरपाटी',
-70,
+69,
 1,
 7
 ),
@@ -6102,7 +6102,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 677,
 'Mellekh',
 'मेल्लेख',
-70,
+69,
 1,
 8
 ),
@@ -6111,7 +6111,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 678,
 'Bannigadhi Jaygadh',
 'बान्निगढी जयगढ',
-70,
+69,
 1,
 6
 ),
@@ -6120,7 +6120,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 679,
 'Ramaroshan',
 'रामारोशन',
-70,
+69,
 1,
 7
 ),
@@ -6129,7 +6129,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 680,
 'Dhakari',
 'ढकारी',
-70,
+69,
 1,
 8
 ),
@@ -6138,7 +6138,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 681,
 'Turmakhad',
 'तुर्माखाँद',
-70,
+69,
 1,
 8
 ),
@@ -6147,7 +6147,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 682,
 'Dipayal Silgadhi',
 'दिपायल सिलगढी',
-71,
+70,
 2,
 9
 ),
@@ -6156,7 +6156,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 683,
 'Shikhar',
 'शिखर',
-71,
+70,
 2,
 11
 ),
@@ -6165,7 +6165,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 684,
 'Purbichauki',
 'पूर्वीचौकी',
-71,
+70,
 1,
 7
 ),
@@ -6174,7 +6174,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 685,
 'Badikedar',
 'बडीकेदार',
-71,
+70,
 1,
 5
 ),
@@ -6183,7 +6183,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 686,
 'Jorayal',
 'जोरायल',
-71,
+70,
 1,
 6
 ),
@@ -6192,7 +6192,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 687,
 'Sayal',
 'सायल',
-71,
+70,
 1,
 6
 ),
@@ -6201,7 +6201,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 688,
 'Aadarsha',
 'आदर्श',
-71,
+70,
 1,
 7
 ),
@@ -6210,7 +6210,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 689,
 'K I Singh',
 'के आई सिं',
-71,
+70,
 1,
 7
 ),
@@ -6219,7 +6219,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 690,
 'Bogatan Fudsil',
 'बोगटान फुड्सिल',
-71,
+70,
 1,
 7
 ),
@@ -6228,7 +6228,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 691,
 'Dhangadhi',
 'धनगढी',
-69,
+71,
 3,
 19
 ),
@@ -6237,7 +6237,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 692,
 'Tikapur',
 'टिकापुर',
-69,
+71,
 2,
 9
 ),
@@ -6246,7 +6246,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 693,
 'Ghodaghodi',
 'घोडाघोडी',
-69,
+71,
 2,
 12
 ),
@@ -6255,7 +6255,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 694,
 'Lamkichuha',
 'लम्कीचुहा',
-69,
+71,
 2,
 10
 ),
@@ -6264,7 +6264,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 695,
 'Bhajani',
 'भजनी',
-69,
+71,
 2,
 9
 ),
@@ -6273,7 +6273,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 696,
 'Godawari',
 'गोदावरी',
-69,
+71,
 2,
 12
 ),
@@ -6282,7 +6282,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 697,
 'Gauriganga',
 'गौरीगंगा',
-69,
+71,
 2,
 11
 ),
@@ -6291,7 +6291,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 698,
 'Janaki',
 'जानकी',
-69,
+71,
 1,
 9
 ),
@@ -6300,7 +6300,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 699,
 'Bardgoriya',
 'बर्दगोरिया',
-69,
+71,
 1,
 6
 ),
@@ -6309,7 +6309,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 700,
 'Mohanyal',
 'मोहन्याल',
-69,
+71,
 1,
 7
 ),
@@ -6318,7 +6318,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 701,
 'Kailari',
 'कैलारी',
-69,
+71,
 1,
 9
 ),
@@ -6327,7 +6327,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 702,
 'Joshipur',
 'जोशीपुर',
-69,
+71,
 1,
 7
 ),
@@ -6336,7 +6336,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 703,
 'Chure',
 'चुरे',
-69,
+71,
 1,
 6
 ),
@@ -6345,7 +6345,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 704,
 'Bheemdatta',
 'भीमदत्त',
-74,
+72,
 2,
 19
 ),
@@ -6354,7 +6354,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 705,
 'Punarbas',
 'पुर्नवास',
-74,
+72,
 2,
 11
 ),
@@ -6363,7 +6363,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 706,
 'Bedkot',
 'वेदकोट',
-74,
+72,
 2,
 10
 ),
@@ -6372,7 +6372,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 707,
 'Mahakali',
 'महाकाली',
-74,
+72,
 2,
 9
 ),
@@ -6381,7 +6381,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 708,
 'Shuklaphanta',
 'शुक्लाफाँटा',
-74,
+72,
 2,
 12
 ),
@@ -6390,7 +6390,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 709,
 'Belauri',
 'बेलौरी',
-74,
+72,
 2,
 11
 ),
@@ -6399,7 +6399,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 710,
 'Krishnapur',
 'कृष्णपुर',
-74,
+72,
 2,
 9
 ),
@@ -6408,7 +6408,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 711,
 'Beldandi',
 'बेलडाडी',
-74,
+72,
 1,
 5
 ),
@@ -6417,7 +6417,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 712,
 'Laljhadi',
 'लालझाडी',
-74,
+72,
 1,
 6
 ),
@@ -6426,7 +6426,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 713,
 'Amargadhi',
 'अमरगढी',
-75,
+73,
 2,
 11
 ),
@@ -6435,7 +6435,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 714,
 'Parshuram',
 'परशुराम',
-75,
+73,
 2,
 12
 ),
@@ -6444,7 +6444,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 715,
 'Aalital',
 'आलिताल',
-75,
+73,
 1,
 8
 ),
@@ -6453,7 +6453,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 716,
 'Bhageshwor',
 'भागेश्वर',
-75,
+73,
 1,
 5
 ),
@@ -6462,7 +6462,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 717,
 'Navadurga',
 'नवदुर्गा',
-75,
+73,
 1,
 5
 ),
@@ -6471,7 +6471,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 718,
 'Ajayameru',
 'अजयमेरु',
-75,
+73,
 1,
 6
 ),
@@ -6480,7 +6480,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 719,
 'Ganyapadhura',
 'गन्यापधुरा',
-75,
+73,
 1,
 5
 ),
@@ -6489,7 +6489,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 720,
 'Dasharathchand',
 'दशरथचन्द',
-76,
+74,
 2,
 11
 ),
@@ -6498,7 +6498,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 721,
 'Patan',
 'पाटन',
-76,
+74,
 2,
 10
 ),
@@ -6507,7 +6507,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 722,
 'Melauli',
 'मेलौली',
-76,
+74,
 2,
 9
 ),
@@ -6516,7 +6516,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 723,
 'Purchaudi',
 'पुर्चौडी',
-76,
+74,
 2,
 10
 ),
@@ -6525,7 +6525,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 724,
 'Sunarya',
 'सुर्नया',
-76,
+74,
 1,
 8
 ),
@@ -6534,7 +6534,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 725,
 'Sigas',
 'सिगास',
-76,
+74,
 1,
 9
 ),
@@ -6543,7 +6543,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 726,
 'Shivanath',
 'शिवनाथ',
-76,
+74,
 1,
 6
 ),
@@ -6552,7 +6552,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 727,
 'Pancheshwor',
 'पञ्चेश्वर',
-76,
+74,
 1,
 6
 ),
@@ -6561,7 +6561,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 728,
 'Dogdakedar',
 'दोगडाकेदार',
-76,
+74,
 1,
 8
 ),
@@ -6570,7 +6570,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 729,
 'Dilasaini',
 'डीलासैनी',
-76,
+74,
 1,
 7
 ),
@@ -6579,7 +6579,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 730,
 'Mahakali',
 'महाकाली',
-77,
+75,
 2,
 9
 ),
@@ -6588,7 +6588,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 731,
 'Shailyashikhar',
 'शैल्यशिखर',
-77,
+75,
 2,
 9
 ),
@@ -6597,7 +6597,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 732,
 'Malikarjun',
 'मालिकार्जुन',
-77,
+75,
 1,
 8
 ),
@@ -6606,7 +6606,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 733,
 'Apihimal',
 'अपिहिमाल',
-77,
+75,
 1,
 6
 ),
@@ -6615,7 +6615,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 734,
 'Duhun',
 'दुहुँ',
-77,
+75,
 1,
 5
 ),
@@ -6624,7 +6624,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 735,
 'Naugad',
 'नौगाड',
-77,
+75,
 1,
 6
 ),
@@ -6633,7 +6633,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 736,
 'Marma',
 'मार्मा',
-77,
+75,
 1,
 6
 ),
@@ -6642,7 +6642,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 737,
 'Lekam',
 'लेकम',
-77,
+75,
 1,
 6
 ),
@@ -6651,7 +6651,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 738,
 'Vyans',
 'ब्याँस',
-77,
+75,
 1,
 6
 ),
@@ -6660,7 +6660,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 739,
 'Kawasoti',
 'कावासोती',
-43,
+481,
 2,
 17
 ),
@@ -6669,7 +6669,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 740,
 'Gaindakot',
 'गैडाकोट',
-43,
+481,
 2,
 18
 ),
@@ -6678,7 +6678,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 741,
 'Devchuli',
 'देवचुली',
-43,
+481,
 2,
 17
 ),
@@ -6687,7 +6687,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 742,
 'Madhyabindu',
 'मध्यविन्दु',
-43,
+481,
 2,
 15
 ),
@@ -6696,7 +6696,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 743,
 'Bungdikali',
 'बौदीकाली',
-43,
+481,
 1,
 6
 ),
@@ -6705,7 +6705,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 744,
 'Bulingtar',
 'बुलिङटार',
-43,
+481,
 1,
 6
 ),
@@ -6714,7 +6714,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 745,
 'Binayi Tribeni',
 'विनयी त्रिवेणी',
-43,
+481,
 1,
 7
 ),
@@ -6723,7 +6723,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 746,
 'Hupsekot',
 'हुप्सेकोट',
-43,
+481,
 1,
 6
 ),
@@ -6732,7 +6732,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 747,
 'Bardghat',
 'बर्दघाट',
-48,
+482,
 2,
 16
 ),
@@ -6741,7 +6741,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 748,
 'Ramgram',
 'रामग्राम',
-48,
+482,
 2,
 18
 ),
@@ -6750,7 +6750,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 749,
 'Sunwal',
 'सुनवल',
-48,
+482,
 2,
 13
 ),
@@ -6759,7 +6759,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 750,
 'Susta',
 'सुस्ता',
-48,
+482,
 1,
 5
 ),
@@ -6768,7 +6768,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 751,
 'Palhinandan',
 'पाल्हीनन्दन',
-48,
+482,
 1,
 6
 ),
@@ -6777,7 +6777,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 752,
 'Pratappur',
 'प्रतापपुर',
-48,
+482,
 1,
 9
 ),
@@ -6786,7 +6786,7 @@ INSERT INTO `local_level` (`id`, `english`, `nepali`, `district_id`, `city_type_
 753,
 'Sarawal',
 'सरावल',
-48,
+482,
 1,
 7
 );
