@@ -3,10 +3,27 @@
 import requests
 import re
 from bs4 import BeautifulSoup
+import time
+
+
+def retry_request_with_backoff(resource_url, max_retries=100, retry_delay=1):
+    for attempt in range(1, max_retries + 1):
+        try:
+            url_response = requests.get(resource_url, timeout=10)
+            url_response.raise_for_status()
+            return url_response
+        except requests.exceptions.RequestException as e:
+            print(f"Request to {resource_url} failed x{attempt}. Error: {str(e)}")
+            if attempt < max_retries:
+                print("Retrying...")
+                time.sleep(retry_delay)
+            else:
+                print("Max retries reached. Request failed.")
+                raise
 
 
 def retrieve_data(data_url):
-    response = requests.get(data_url)
+    response = retry_request_with_backoff(data_url)
     if response.status_code == 200:
         return response.json()
     else:
@@ -15,7 +32,7 @@ def retrieve_data(data_url):
 
 
 def get_html_text(page_url):
-    response = requests.get(page_url)
+    response = retry_request_with_backoff(page_url)
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, 'html.parser')
         return soup.get_text()
