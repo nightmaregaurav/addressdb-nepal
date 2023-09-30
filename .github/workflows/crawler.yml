@@ -1,5 +1,5 @@
 # This workflow crawls website of Ministry of Federal Affairs & General Administration MOFA Nepal and extract local government data.
-name: Crawl MOFA website 0:00 each month exactly at first day.
+name: Crawl MOFA website 0:00 UTC each month exactly at first day.
 
 on:
   schedule:
