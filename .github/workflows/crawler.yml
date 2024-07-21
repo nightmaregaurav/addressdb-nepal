@@ -27,7 +27,7 @@ jobs:
         run: ./extract_local_gov.py
 
       - name: Prepare git config
-        run: git config --global user.email "mail.gauravnyaupane@gmail.com" && git config --global user.name "nightmaregaurav"
+        run: git config --global user.email "nightmaregaurav@users.noreply.github.com" && git config --global user.name "nightmaregaurav"
 
       - name: Add dummy file to trigger update
         run: date > last_crawled_on.date
